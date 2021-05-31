@@ -2,7 +2,8 @@
 /wav48/
 /mp3/
 /cstr-vctk-corpus.txt
-/all.txt
+/train.txt
+/val.txt
 /stats.txt
 /assemble-stats.txt
 /wav/
