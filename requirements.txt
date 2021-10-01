@@ -1,4 +1,0 @@
-pydub~=0.25.1
-progressbar~=2.5
-torch~=1.8.1
-phonemizer~=2.2.2
