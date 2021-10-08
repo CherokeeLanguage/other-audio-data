@@ -10,37 +10,18 @@ from shutil import rmtree
 
 import progressbar
 import pydub.effects as effects
-from phonemizer import phonemize
 from pydub import AudioSegment
 
 from split_audio import detect_sound
 
 
-def as_mco(string: str) -> str:
-    macron_lower = "\u0331"
-    macron = "\u0304"
-    mco_glottal_stop = "ɂ"
-    ipa_glottal_stop = "ʔ"
-    ipa_long_vowel = "ː"
-    string = ud.normalize("NFD", string)
-    string = string.replace(ipa_glottal_stop, mco_glottal_stop)
-    string = string.replace(ipa_long_vowel, ":")
-    string = re.sub("(?i)(v)", "\\1" + macron_lower, string)
-    string = string.replace("ʌ", "v" + macron)
-    string = re.sub("(?i)j", "y", string)
-    string = re.sub("(?i)dʒ", "j", string)
-    string = re.sub("(?i)tʃ", "ch", string)
-    # text = re.sub("(?i)ɑ", "a", text)
-    string = re.sub("(?i)([aeiou])", "\\1" + macron, string)
-    return string
-
-
-if __name__ == "__main__":
+def main():
 
     src_dir: str = "../cstr-vctk-corpus"
 
-    if os.path.dirname(sys.argv[0]) != "":
-        os.chdir(os.path.dirname(sys.argv[0]))
+    if sys.argv[0].strip():
+        if os.path.dirname(sys.argv[0]):
+            os.chdir()
 
     MASTER_TEXT: str = src_dir + "/cstr-vctk-corpus.txt"
     max_duration: float = 10.0
@@ -95,7 +76,7 @@ if __name__ == "__main__":
             info = speaker_info[spkr]
             spkr = info[0] + "-" + info[2]
 
-            text: str = ud.normalize("NFD", fields[6].strip())
+            text: str = ud.normalize("NFC", fields[6].strip())
 
             if not text.strip():
                 continue
@@ -211,3 +192,7 @@ if __name__ == "__main__":
         print(file=f)
 
     sys.exit()
+
+
+if __name__ == "__main__":
+    main()
