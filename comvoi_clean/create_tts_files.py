@@ -32,7 +32,7 @@ if __name__ == "__main__":
             spkr: str = fields[1].strip()
             lang: str = fields[2].strip()
             mp3: str = fields[3].strip()
-            text: str = ud.normalize("NFD", fields[6].strip())
+            text: str = ud.normalize("NFC", fields[6].strip())
             dedupeKey = spkr + "|" + text + "|" + mp3
             if text == "":
                 continue
