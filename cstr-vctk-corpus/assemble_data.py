@@ -76,7 +76,7 @@ if __name__ == "__main__":
     for wav, speaker, mp3, text in entries:
         bar.update(count)
         count += 1
-        text: str = ud.normalize('NFD', text)
+        text: str = ud.normalize('NFC', text)
         wav_segment: AudioSegment = AudioSegment.from_file(wav)
         wav_segment = effects.normalize(wav_segment)
 

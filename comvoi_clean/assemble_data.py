@@ -46,7 +46,7 @@ if __name__ == "__main__":
                     continue
                 wav = fields[1]
                 audio = pathlib.Path(".").joinpath(lang, "wavs", speaker_no, wav)
-                text = ud.normalize('NFD', fields[2]).strip()
+                text = ud.normalize('NFC', fields[2]).strip()
                 mp3 = pathlib.Path(".").joinpath("mp3", f"{lang}-{speaker}-{idx:09d}.mp3")
                 if os.path.exists(audio):
                     entries.append((audio, speaker, lang, mp3, text))
@@ -76,7 +76,7 @@ if __name__ == "__main__":
     for wav, speaker, lang, mp3, text in entries:
         bar.update(count)
         count += 1
-        text: str = ud.normalize('NFD', text)
+        text: str = ud.normalize('NFC', text)
         wav_segment: AudioSegment = AudioSegment.from_file(wav)
         wav_segment = effects.normalize(wav_segment)
 
