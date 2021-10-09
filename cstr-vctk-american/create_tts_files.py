@@ -20,8 +20,9 @@ def main():
     src_dir: str = "../cstr-vctk-corpus"
 
     if sys.argv[0].strip():
-        if os.path.dirname(sys.argv[0]):
-            os.chdir()
+        dir_name: str = os.path.dirname(sys.argv[0])
+        if dir_name:
+            os.chdir(dir_name)
 
     MASTER_TEXT: str = src_dir + "/cstr-vctk-corpus.txt"
     max_duration: float = 10.0
