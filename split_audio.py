@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-import dataclasses
-import json
 import os
 import sys
 from builtins import list
@@ -80,13 +78,10 @@ def combine_segments(segments: list, gap_break_duration: int, target_length: int
 
 
 def main():
-    split_config: SplitConfig = SplitConfig()
-    split_config.load("split_config.json")
-
-    silence_threshold: float = split_config.silence_threshold
-    silence_min_duration: int = split_config.silence_min_duration
-    max_target_duration: int = split_config.max_target_duration
-    gap_break_duration: int = split_config.gap_break_duration
+    silence_threshold: float = -40.0
+    silence_min_duration: int = 250  # 225  # ms
+    max_target_duration: int = 10000  # ms
+    gap_break_duration: int = 750  # 675  # ms
 
     if sys.argv[0]:
         workdir: str = os.path.dirname(sys.argv[0])
@@ -166,36 +161,6 @@ def main():
     print(msg)
 
     sys.exit()
-
-
-@dataclasses.dataclass
-class SplitConfig:
-    silence_threshold: float = -40.0
-    silence_min_duration: int = 250  # 225  # ms
-    max_target_duration: int = 10000  # ms
-    gap_break_duration: int = 750  # 675  # ms
-
-    def load(self, config_file: str):
-        config: dict
-        if not os.path.exists(config_file):
-            self.save(config_file)
-            return
-
-        try:
-            with open(config_file, "r") as r:
-                config = json.load(r)
-        except json.JSONDecodeError:
-            self.save(config_file)
-            return
-        if type(config) == dict:
-            for k, v in config.items():
-                setattr(self, k, v)
-        else:
-            self.save(config_file)
-
-    def save(self, config_file: str):
-        with open(config_file, "w") as w:
-            json.dump(dataclasses.asdict(self), w, indent=4)
 
 
 if __name__ == "__main__":
