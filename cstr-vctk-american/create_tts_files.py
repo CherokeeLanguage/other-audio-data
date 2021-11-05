@@ -25,7 +25,6 @@ def main():
             os.chdir(dir_name)
 
     MASTER_TEXT: str = src_dir + "/cstr-vctk-corpus.txt"
-    max_duration: float = 10.0
 
     rmtree("wav", ignore_errors=True)
     pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
@@ -107,11 +106,7 @@ def main():
         segments: list = detect_sound(mp3_segment)
         if len(segments) > 1:
             mp3_segment = mp3_segment[segments[0][0]:segments[-1][1]]
-        if mp3_segment.duration_seconds > max_duration:
-            continue
-        audio: AudioSegment = AudioSegment.silent(125, 22050)
-        audio = audio.append(mp3_segment, crossfade=0)
-        audio = audio.append(AudioSegment.silent(125, 22050), crossfade=0)
+        audio: AudioSegment = mp3_segment
         audio = effects.normalize(audio)
         audio = audio.set_channels(1)
         audio = audio.set_frame_rate(22050)
