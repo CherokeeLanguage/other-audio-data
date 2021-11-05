@@ -71,7 +71,7 @@ if __name__ == "__main__":
             longestLength = audio.duration_seconds
         rows.append(f"{xid}|{speaker}|{lang}|{wav}|||{text}|")
 
-    with open("stats.txt", "w") as f:
+    with open("stats-all.txt", "w") as f:
         print(f"Output {len(rows):,} entries.", file=f)
 
         print(file=f)
@@ -135,7 +135,7 @@ if __name__ == "__main__":
                 f.write(line)
                 f.write("\n")
 
-        with open(f"stats-{lang}.txt", "a") as f:
+        with open(f"stats-{lang}.txt", "w") as f:
             print(f"All size: {len(subset):,d}", file=f)
             print(f"Train size: {trainSize:,d}", file=f)
             print(f"Val size: {valSize:,d}", file=f)

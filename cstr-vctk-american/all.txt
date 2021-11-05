@@ -20,6 +20,7 @@
 025700|294-en-f|en|wav/p294_020.wav|||Many complicated ideas about the rainbow have been formed.|
 025701|294-en-f|en|wav/p294_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 025702|294-en-f|en|wav/p294_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+025703|294-en-f|en|wav/p294_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 025704|294-en-f|en|wav/p294_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 025705|294-en-f|en|wav/p294_025.wav|||They were the better team on the night.|
 025706|294-en-f|en|wav/p294_026.wav|||The show is sold out, like the others in the run.|
@@ -441,6 +442,7 @@
 026539|297-en-f|en|wav/p297_019.wav|||Since then physicists have found that it is not a reflection, but refraction by the raindrops which causes the rainbows.|
 026540|297-en-f|en|wav/p297_020.wav|||Many complicated ideas about the rainbow have been formed.|
 026541|297-en-f|en|wav/p297_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
+026542|297-en-f|en|wav/p297_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 026543|297-en-f|en|wav/p297_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 026544|297-en-f|en|wav/p297_025.wav|||But it's been kept to a minimum.|
 026545|297-en-f|en|wav/p297_026.wav|||We have gone on about him no end.|
@@ -1263,6 +1265,7 @@
 027767|300-en-f|en|wav/p300_020.wav|||Many complicated ideas about the rainbow have been formed.|
 027768|300-en-f|en|wav/p300_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 027769|300-en-f|en|wav/p300_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+027770|300-en-f|en|wav/p300_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 027771|300-en-f|en|wav/p300_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 027772|300-en-f|en|wav/p300_025.wav|||Police were called to the scene, according to the weekend reports.|
 027773|300-en-f|en|wav/p300_026.wav|||This is not a floating Las Vegas.|
@@ -2072,6 +2075,7 @@
 029663|305-en-f|en|wav/p305_020.wav|||Many complicated ideas about the rainbow have been formed.|
 029664|305-en-f|en|wav/p305_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 029665|305-en-f|en|wav/p305_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+029666|305-en-f|en|wav/p305_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 029667|305-en-f|en|wav/p305_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 029668|305-en-f|en|wav/p305_025.wav|||Last year, however, it was decided to dissolve the abbey.|
 029669|305-en-f|en|wav/p305_026.wav|||He added, however, that all options are under review.|
@@ -2491,7 +2495,9 @@
 030083|306-en-f|en|wav/p306_018.wav|||Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.|
 030084|306-en-f|en|wav/p306_019.wav|||Since then physicists have found that is not reflection, but refraction by the raindrops which causes the rainbows.|
 030085|306-en-f|en|wav/p306_020.wav|||Many complicated ideas about the rainbow have been formed.|
+030086|306-en-f|en|wav/p306_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 030087|306-en-f|en|wav/p306_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+030088|306-en-f|en|wav/p306_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 030089|306-en-f|en|wav/p306_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 030090|306-en-f|en|wav/p306_025.wav|||Police were called to the scene, according to the weekend reports.|
 030091|306-en-f|en|wav/p306_026.wav|||This is not a floating Las Vegas.|
@@ -3265,6 +3271,7 @@
 031279|310-en-f|en|wav/p310_020.wav|||Many complicated ideas about the rainbow have been formed.|
 031280|310-en-f|en|wav/p310_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 031281|310-en-f|en|wav/p310_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+031282|310-en-f|en|wav/p310_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 031283|310-en-f|en|wav/p310_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 031284|310-en-f|en|wav/p310_025.wav|||He was the youngest of the British team.|
 031285|310-en-f|en|wav/p310_026.wav|||I fell in love with the ballet.|
@@ -4108,6 +4115,7 @@
 034228|318-en-f|en|wav/p318_020.wav|||Many complicated ideas about the rainbow have been formed.|
 034229|318-en-f|en|wav/p318_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 034230|318-en-f|en|wav/p318_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+034231|318-en-f|en|wav/p318_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 034232|318-en-f|en|wav/p318_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 034233|318-en-f|en|wav/p318_025.wav|||They will be dealt with.|
 034234|318-en-f|en|wav/p318_026.wav|||It is never an easy game.|
@@ -4531,6 +4539,7 @@
 035475|329-en-f|en|wav/p329_020.wav|||Many complicated ideas about the rainbow have been formed.|
 035476|329-en-f|en|wav/p329_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 035477|329-en-f|en|wav/p329_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+035478|329-en-f|en|wav/p329_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 035479|329-en-f|en|wav/p329_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 035480|329-en-f|en|wav/p329_025.wav|||But there has never been the time, she said.|
 035481|329-en-f|en|wav/p329_026.wav|||This could be one such case, he declared.|
@@ -4954,6 +4963,7 @@
 035899|330-en-f|en|wav/p330_020.wav|||Many complicated ideas about the rainbow have been formed.|
 035900|330-en-f|en|wav/p330_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 035901|330-en-f|en|wav/p330_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+035902|330-en-f|en|wav/p330_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 035903|330-en-f|en|wav/p330_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 035904|330-en-f|en|wav/p330_025.wav|||Like anyone else, he has to take his time.|
 035905|330-en-f|en|wav/p330_026.wav|||I was backing him up.|
@@ -6220,6 +6230,7 @@
 038006|339-en-f|en|wav/p339_020.wav|||Many complicated ideas about the rainbow have been formed.|
 038007|339-en-f|en|wav/p339_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 038008|339-en-f|en|wav/p339_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+038009|339-en-f|en|wav/p339_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 038010|339-en-f|en|wav/p339_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 038011|339-en-f|en|wav/p339_025.wav|||They missed the boat and everyone suffers.|
 038012|339-en-f|en|wav/p339_026.wav|||The pollution and the driving are beyond belief.|
@@ -6640,7 +6651,9 @@
 038850|341-en-f|en|wav/p341_018.wav|||Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain.|
 038851|341-en-f|en|wav/p341_019.wav|||Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows.|
 038852|341-en-f|en|wav/p341_020.wav|||Many complicated ideas about the rainbow have been formed.|
+038853|341-en-f|en|wav/p341_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 038854|341-en-f|en|wav/p341_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+038855|341-en-f|en|wav/p341_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 038856|341-en-f|en|wav/p341_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 038857|341-en-f|en|wav/p341_025.wav|||This guy is never going to give up.|
 038858|341-en-f|en|wav/p341_026.wav|||That's interesting to me.|
@@ -7446,6 +7459,7 @@
 040892|360-en-m|en|wav/p360_020.wav|||Many complicated ideas about the rainbow have been formed.|
 040893|360-en-m|en|wav/p360_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 040894|360-en-m|en|wav/p360_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+040895|360-en-m|en|wav/p360_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 040896|360-en-m|en|wav/p360_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 040897|360-en-m|en|wav/p360_025.wav|||You can never take a win for granted.|
 040898|360-en-m|en|wav/p360_026.wav|||My conscience is not clear.|
@@ -8292,6 +8306,7 @@
 041739|362-en-f|en|wav/p362_020.wav|||Many complicated ideas about the rainbow have been formed.|
 041740|362-en-f|en|wav/p362_021.wav|||The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|
 041741|362-en-f|en|wav/p362_022.wav|||The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|
+041742|362-en-f|en|wav/p362_023.wav|||If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|
 041743|362-en-f|en|wav/p362_024.wav|||This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|
 041744|362-en-f|en|wav/p362_025.wav|||We are being realistic about the challenges ahead.|
 041745|362-en-f|en|wav/p362_026.wav|||This is your country.|

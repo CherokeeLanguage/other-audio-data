@@ -1,37 +1,392 @@
-014782|02-zh|zh|wav/zh-02-zh-000000174.wav|||sìdé sānshílìunián， tā cóng xīgòng hòubǔ cháng bìyè， bèi pài wǎng běiqí rènzhí。|
-015047|06-zh|zh|wav/zh-06-zh-000000490.wav|||lùjīng xiàshǒu， lǐkàng xuéxí tā de xíngwèi， lǐkàng de jìufù yuánfǎ sēng zhīdào le， jìu dùi lǐkàng zhàngxíng sānbǎi。|
-014928|03-zh|zh|wav/zh-03-zh-000000320.wav|||chuànglì zǔzhī hòu， lìngyīmíng gōngdǎng xià yìyuán yì yīn lèisì yuányīn ér tùidǎng bìng jiārù dúlì xiǎozǔ。|
-014992|05-zh|zh|wav/zh-05-zh-000000384.wav|||shānnèiyǎ nán， rìběn wéiqí jǐuduàn qíshǒu。|
-015197|07-zh|zh|wav/zh-07-zh-000000640.wav|||tóngyī guójiā nèi yìnggāi zhǐ shǐyòng qízhōng yīliè zhī shùzhí。|
-014877|03-zh|zh|wav/zh-03-zh-000000269.wav|||hēizhāwéishā de shēngpíng yě bèi gǎibiān chéng jībù xìjù zuòpǐn。|
-014865|03-zh|zh|wav/zh-03-zh-000000257.wav|||kòngjiàn miànbǎn yǒu kāishǐ tūilíu， kāishǐ lùzhì， gōngzuòshì móshì， shèzhì， tùichū zhèxiē ànnǐu。|
-014904|03-zh|zh|wav/zh-03-zh-000000296.wav|||dàduōshù mǎqídùn zú xìnyǎng dōngzhèngjiào。|
-015277|07-zh|zh|wav/zh-07-zh-000000720.wav|||tú fǎrén， shì yīgè shēnghuó zài éluōsī xībólìyà yīěrkùcíkè yīdài de tūjuéyǔ mínzú。|
-014801|03-zh|zh|wav/zh-03-zh-000000193.wav|||hǎitáng xīzhàn shì zhòngqìng gǔidàojiāotōng huánxiàn de yīzuò chēzhàn， wèi gāojià zhàn。|
-015079|06-zh|zh|wav/zh-06-zh-000000522.wav|||wǔshíwǔnián， shēng húběi xúnfǔ， táirù xiāng lánqí mǎnzhōu。|
-014706|02-zh|zh|wav/zh-02-zh-000000080.wav|||ruǎn wénháo zhūibǔ ruǎnwénzuǒ， sòngdào jiādìng， jiāng qí zhūshā。|
-015053|06-zh|zh|wav/zh-06-zh-000000496.wav|||zhèxiē shìjué xiàozhèng shì wèile yìdúxìng。|
-015150|07-zh|zh|wav/zh-07-zh-000000593.wav|||qiánmǔ guōshì; féngshì; jìmǔ féngshì。|
-015011|06-zh|zh|wav/zh-06-zh-000000454.wav|||tā shì yúlùpíng de zǎoqī xuéshēng zhīyī， zài yèjīng gāofēnzǐ fāngxiàng zuò le yīxiē chūbù gōngzuò。|
-015166|07-zh|zh|wav/zh-07-zh-000000609.wav|||lǐxuélǐ， zìzǐlì， zhílì fèngyáng fǔ yǐng zhōu rén， mínjí， míngzhāo zhèngzhì rénwù， jìnshì chūshēn。|
-014815|03-zh|zh|wav/zh-03-zh-000000207.wav|||sīpǔléi kè sīwéiěr shì wèiyú měiguó jiālìfúníyàzhōu āi ěrduō lāduōxiàn de yīgè fēi jiànzhì dìqū。|
-014961|05-zh|zh|wav/zh-05-zh-000000353.wav|||gāo sōng， zìmàoyǎn， xiǎozì ā líng。|
-015006|05-zh|zh|wav/zh-05-zh-000000398.wav|||jiànān chūnián， wèi jùnlì。|
-014984|05-zh|zh|wav/zh-05-zh-000000376.wav|||jīdūjiàotáng shì fēnlán shǒudū hèěrxīnjī de yīzuò jiàotáng。|
-015069|06-zh|zh|wav/zh-06-zh-000000512.wav|||lóngqìng èrnián， dēngjìnshì dìsān jiǎdì èrbǎibāshí sìmíng。|
-015214|07-zh|zh|wav/zh-07-zh-000000657.wav|||xiǎoshíhòu jìu xǐhuān kàn dònghuà， bìngqiě mófǎng zìjǐ xǐhuān de jiǎosè， hòulái biàn yǐ dāng shēngyōu wèi mùbiāo。|
-015280|07-zh|zh|wav/zh-07-zh-000000723.wav|||táojūnqǐ， běijīng rén。|
-015175|07-zh|zh|wav/zh-07-zh-000000618.wav|||yáng yàozǔ shì zhōngguó nánzǐ tiánjìng yùndòngyuán。|
-014787|03-zh|zh|wav/zh-03-zh-000000179.wav|||kēdíěr shì yīgè wèiyú měiguó qiáozhìyàzhōu kèlǐsī pǔxiàn de chéngshì。|
-014932|03-zh|zh|wav/zh-03-zh-000000324.wav|||jiǎ zìkù， míngzhāo nèitíng shíkù zhīyī， zhǔ bùpǐ， yánliào， lìshǔyú hùbù。|
-014939|03-zh|zh|wav/zh-03-zh-000000331.wav|||xiànzài xiāngbīn guǒ zài qí yuánchǎndì yǐwài de dìqū yě yǒu zhǒngzhí。|
-015295|07-zh|zh|wav/zh-07-zh-000000738.wav|||yóuyú àihǎo yánjīu xuěhuā， yīncǐ bèi chēngwèi xuěhuā dàrén。|
-014825|03-zh|zh|wav/zh-03-zh-000000217.wav|||shèng luòlúnzuǒ shì wèiyú měiguó jiālìfúníyàzhōu ālāmǐ dáxiàn de yīgè rénkǒupǔchá zhǐdìng dìqū。|
-015286|07-zh|zh|wav/zh-07-zh-000000729.wav|||guōsìhuàn， zìxiànwú， gāopíng rén， míngzhāo zhèngzhì rénwù， jìnshì chūshēn。|
-015134|07-zh|zh|wav/zh-07-zh-000000577.wav|||yīcì hùi shēng liǎnggè dàn。|
-015159|07-zh|zh|wav/zh-07-zh-000000602.wav|||fēnōu hùichuān shì yījiā fēnlán línyè gōngsī。|
-015242|07-zh|zh|wav/zh-07-zh-000000685.wav|||zài éguó nèizhàn qījiān， tā huóyuè yú xībólìyà hé yuǎndōng。|
-014936|03-zh|zh|wav/zh-03-zh-000000328.wav|||fúrùidé rùikè. àidéméng. fàn fúlì tè de duōlúnduō bàolóng， chángshàng zhǔyào wèizhì wèi kòngqíu hòuwèi。|
+014783|02-zh|zh|wav/zh-02-zh-000000174.wav|||sìdé sānshílìunián， tā cóng xīgòng hòubǔ cháng bìyè， bèi pài wǎng běiqí rènzhí。|
+015048|06-zh|zh|wav/zh-06-zh-000000490.wav|||lùjīng xiàshǒu， lǐkàng xuéxí tā de xíngwèi， lǐkàng de jìufù yuánfǎ sēng zhīdào le， jìu dùi lǐkàng zhàngxíng sānbǎi。|
+014929|03-zh|zh|wav/zh-03-zh-000000320.wav|||chuànglì zǔzhī hòu， lìngyīmíng gōngdǎng xià yìyuán yì yīn lèisì yuányīn ér tùidǎng bìng jiārù dúlì xiǎozǔ。|
+014993|05-zh|zh|wav/zh-05-zh-000000384.wav|||shānnèiyǎ nán， rìběn wéiqí jǐuduàn qíshǒu。|
+015198|07-zh|zh|wav/zh-07-zh-000000640.wav|||tóngyī guójiā nèi yìnggāi zhǐ shǐyòng qízhōng yīliè zhī shùzhí。|
+014878|03-zh|zh|wav/zh-03-zh-000000269.wav|||hēizhāwéishā de shēngpíng yě bèi gǎibiān chéng jībù xìjù zuòpǐn。|
+014866|03-zh|zh|wav/zh-03-zh-000000257.wav|||kòngjiàn miànbǎn yǒu kāishǐ tūilíu， kāishǐ lùzhì， gōngzuòshì móshì， shèzhì， tùichū zhèxiē ànnǐu。|
+014905|03-zh|zh|wav/zh-03-zh-000000296.wav|||dàduōshù mǎqídùn zú xìnyǎng dōngzhèngjiào。|
+015278|07-zh|zh|wav/zh-07-zh-000000720.wav|||tú fǎrén， shì yīgè shēnghuó zài éluōsī xībólìyà yīěrkùcíkè yīdài de tūjuéyǔ mínzú。|
+014802|03-zh|zh|wav/zh-03-zh-000000193.wav|||hǎitáng xīzhàn shì zhòngqìng gǔidàojiāotōng huánxiàn de yīzuò chēzhàn， wèi gāojià zhàn。|
+015080|06-zh|zh|wav/zh-06-zh-000000522.wav|||wǔshíwǔnián， shēng húběi xúnfǔ， táirù xiāng lánqí mǎnzhōu。|
+014707|02-zh|zh|wav/zh-02-zh-000000080.wav|||ruǎn wénháo zhūibǔ ruǎnwénzuǒ， sòngdào jiādìng， jiāng qí zhūshā。|
+015054|06-zh|zh|wav/zh-06-zh-000000496.wav|||zhèxiē shìjué xiàozhèng shì wèile yìdúxìng。|
+015151|07-zh|zh|wav/zh-07-zh-000000593.wav|||qiánmǔ guōshì; féngshì; jìmǔ féngshì。|
+015012|06-zh|zh|wav/zh-06-zh-000000454.wav|||tā shì yúlùpíng de zǎoqī xuéshēng zhīyī， zài yèjīng gāofēnzǐ fāngxiàng zuò le yīxiē chūbù gōngzuò。|
+015167|07-zh|zh|wav/zh-07-zh-000000609.wav|||lǐxuélǐ， zìzǐlì， zhílì fèngyáng fǔ yǐng zhōu rén， mínjí， míngzhāo zhèngzhì rénwù， jìnshì chūshēn。|
+014816|03-zh|zh|wav/zh-03-zh-000000207.wav|||sīpǔléi kè sīwéiěr shì wèiyú měiguó jiālìfúníyàzhōu āi ěrduō lāduōxiàn de yīgè fēi jiànzhì dìqū。|
+014962|05-zh|zh|wav/zh-05-zh-000000353.wav|||gāo sōng， zìmàoyǎn， xiǎozì ā líng。|
+015007|05-zh|zh|wav/zh-05-zh-000000398.wav|||jiànān chūnián， wèi jùnlì。|
+014985|05-zh|zh|wav/zh-05-zh-000000376.wav|||jīdūjiàotáng shì fēnlán shǒudū hèěrxīnjī de yīzuò jiàotáng。|
+015070|06-zh|zh|wav/zh-06-zh-000000512.wav|||lóngqìng èrnián， dēngjìnshì dìsān jiǎdì èrbǎibāshí sìmíng。|
+015215|07-zh|zh|wav/zh-07-zh-000000657.wav|||xiǎoshíhòu jìu xǐhuān kàn dònghuà， bìngqiě mófǎng zìjǐ xǐhuān de jiǎosè， hòulái biàn yǐ dāng shēngyōu wèi mùbiāo。|
+015281|07-zh|zh|wav/zh-07-zh-000000723.wav|||táojūnqǐ， běijīng rén。|
+015176|07-zh|zh|wav/zh-07-zh-000000618.wav|||yáng yàozǔ shì zhōngguó nánzǐ tiánjìng yùndòngyuán。|
+014788|03-zh|zh|wav/zh-03-zh-000000179.wav|||kēdíěr shì yīgè wèiyú měiguó qiáozhìyàzhōu kèlǐsī pǔxiàn de chéngshì。|
+014933|03-zh|zh|wav/zh-03-zh-000000324.wav|||jiǎ zìkù， míngzhāo nèitíng shíkù zhīyī， zhǔ bùpǐ， yánliào， lìshǔyú hùbù。|
+014940|03-zh|zh|wav/zh-03-zh-000000331.wav|||xiànzài xiāngbīn guǒ zài qí yuánchǎndì yǐwài de dìqū yě yǒu zhǒngzhí。|
+015296|07-zh|zh|wav/zh-07-zh-000000738.wav|||yóuyú àihǎo yánjīu xuěhuā， yīncǐ bèi chēngwèi xuěhuā dàrén。|
+014826|03-zh|zh|wav/zh-03-zh-000000217.wav|||shèng luòlúnzuǒ shì wèiyú měiguó jiālìfúníyàzhōu ālāmǐ dáxiàn de yīgè rénkǒupǔchá zhǐdìng dìqū。|
+015287|07-zh|zh|wav/zh-07-zh-000000729.wav|||guōsìhuàn， zìxiànwú， gāopíng rén， míngzhāo zhèngzhì rénwù， jìnshì chūshēn。|
+015135|07-zh|zh|wav/zh-07-zh-000000577.wav|||yīcì hùi shēng liǎnggè dàn。|
+015160|07-zh|zh|wav/zh-07-zh-000000602.wav|||fēnōu hùichuān shì yījiā fēnlán línyè gōngsī。|
+015243|07-zh|zh|wav/zh-07-zh-000000685.wav|||zài éguó nèizhàn qījiān， tā huóyuè yú xībólìyà hé yuǎndōng。|
+014937|03-zh|zh|wav/zh-03-zh-000000328.wav|||fúrùidé rùikè. àidéméng. fàn fúlì tè de duōlúnduō bàolóng， chángshàng zhǔyào wèizhì wèi kòngqíu hòuwèi。|
+009194|21-fr|fr|wav/fr-21-fr-000003409.wav|||Qu'est-ce que vous voulez que j’aie?|
+009005|20-fr|fr|wav/fr-20-fr-000003220.wav|||trente-sept grand-Place Norbert Segard|
+006540|04-fr|fr|wav/fr-04-fr-000000670.wav|||Pourquoi le seraient-elles?|
+009044|20-fr|fr|wav/fr-20-fr-000003259.wav|||deux rue Louis Mennessier, zéro deux, deux cent cinquante à Thiernu|
+006131|04-fr|fr|wav/fr-04-fr-000000256.wav|||C'est ce que j’ai fait.|
+007073|07-fr|fr|wav/fr-07-fr-000001214.wav|||Jamais encore elle n'eût supposé possible une telle succession d'infamies.|
+006619|04-fr|fr|wav/fr-04-fr-000000750.wav|||Les Héricourt sont une famille de héros.|
+007353|09-fr|fr|wav/fr-09-fr-000001494.wav|||Un serrait solidement, autour de sa cuisse, le mouchoir à carreaux.|
+006722|04-fr|fr|wav/fr-04-fr-000000853.wav|||De là mille complications internationales.|
+007442|09-fr|fr|wav/fr-09-fr-000001583.wav|||Katy Perry irriguera les yaourts en réussissant un kiosque.|
+007411|09-fr|fr|wav/fr-09-fr-000001552.wav|||Les dalles retentissaient sous les crosses et les fourreaux de sabres.|
+006773|04-fr|fr|wav/fr-04-fr-000000904.wav|||Papa elle existe la petite souris des dents?|
+009672|26-fr|fr|wav/fr-26-fr-000004046.wav|||Par ses bruits réguliers?|
+006217|04-fr|fr|wav/fr-04-fr-000000346.wav|||Les jurons répondirent.|
+008245|15-fr|fr|wav/fr-15-fr-000002459.wav|||Dût mon destin être pareil au sien, je reprendrais la tâche où il l'avait laissée.|
+009307|21-fr|fr|wav/fr-21-fr-000003522.wav|||Elle ajouta: Regardez plutôt, il y a juste de la place.|
+009397|21-fr|fr|wav/fr-21-fr-000003612.wav|||Je ne veux pas regarder la télévision.|
+007536|09-fr|fr|wav/fr-09-fr-000001677.wav|||Aller, c'est reparti pour trois kilomètres de marche.|
+009640|26-fr|fr|wav/fr-26-fr-000004014.wav|||Il se tâte les muscles.|
+008622|18-fr|fr|wav/fr-18-fr-000002837.wav|||Inexorable, Caroline mesurait à ses parents la portion congrue.|
+006650|04-fr|fr|wav/fr-04-fr-000000781.wav|||Le motard fera fi des tronçonneuses.|
+007853|11-fr|fr|wav/fr-11-fr-000002000.wav|||Il y eut un instant de silence pendant lequel chacun s'observa.|
+007676|10-fr|fr|wav/fr-10-fr-000001817.wav|||Je reconnus que c'étaient des yeux.|
+008556|17-fr|fr|wav/fr-17-fr-000002770.wav|||Son fils enfant fut tué en servant la Hollande.|
+006269|04-fr|fr|wav/fr-04-fr-000000398.wav|||étrangement, il est plus beau chauve.|
+007233|08-fr|fr|wav/fr-08-fr-000001374.wav|||Le feu a pris dans un bâtiment à Lannion.|
+007790|11-fr|fr|wav/fr-11-fr-000001937.wav|||Vous avez raison, Pageant.|
+007913|11-fr|fr|wav/fr-11-fr-000002060.wav|||Madame Berger, l'amendement est-il retiré? Oui, monsieur le président.|
+009250|21-fr|fr|wav/fr-21-fr-000003465.wav|||Ce sous-amendement vise à rectifier une erreur de référence.|
+009001|20-fr|fr|wav/fr-20-fr-000003216.wav|||Au fait, comme il se laisse prendre par tout le monde.|
+007187|07-fr|fr|wav/fr-07-fr-000001328.wav|||Mais j'espère bien ne pas en avoir!|
+008995|20-fr|fr|wav/fr-20-fr-000003210.wav|||Va-t'en, je vais m'habiller.|
+006826|05-fr|fr|wav/fr-05-fr-000000967.wav|||Elle tranquillisa sa mère en lui téléphonant.|
+007063|07-fr|fr|wav/fr-07-fr-000001204.wav|||Pardonnez-nous, mais nous reviendrons systématiquement sur ces propositions, même si vous ne les acceptez pas.|
+007137|07-fr|fr|wav/fr-07-fr-000001278.wav|||La parole est à Monsieur Marc Goua, pour soutenir l'amendement numéro six cent quatre-vingt-douze.|
+008550|17-fr|fr|wav/fr-17-fr-000002764.wav|||Allée des Frégates au numéro cinq|
+007701|10-fr|fr|wav/fr-10-fr-000001848.wav|||Place Alexis Ignace à Épinal|
+006565|04-fr|fr|wav/fr-04-fr-000000695.wav|||Ils sont bien habillés, style jeunes cadres de sortie.|
+006980|06-fr|fr|wav/fr-06-fr-000001121.wav|||La commission a supprimé l'article trente-huit sexies.|
+006911|06-fr|fr|wav/fr-06-fr-000001052.wav|||Le parlement européen sera renouvelé en mai prochain.|
+006979|06-fr|fr|wav/fr-06-fr-000001120.wav|||Je suis saisi de l'amendement numéro soixante et un tendant à le rétablir.|
+006475|04-fr|fr|wav/fr-04-fr-000000605.wav|||Elle s'est cassée la hanche au ski.|
+006916|06-fr|fr|wav/fr-06-fr-000001057.wav|||Les trois Bretons, qui avaient monté derrière leur évêque, se regardaient stupéfaits.|
+009611|25-fr|fr|wav/fr-25-fr-000003985.wav|||Mais il n'y aura pas un chat, là-bas, c’est dimanche soir, vous ne verrez rien.|
+008428|16-fr|fr|wav/fr-16-fr-000002642.wav|||muni de ses énormes lunettes, il rédigea une minuscule étiquette|
+007464|09-fr|fr|wav/fr-09-fr-000001605.wav|||Et il frappa sur le fourreau de son bancal.|
+008166|14-fr|fr|wav/fr-14-fr-000002380.wav|||Prenez, prenez tout! MOTUS.|
+007491|09-fr|fr|wav/fr-09-fr-000001632.wav|||Elle perd ses cheveux.|
+006905|06-fr|fr|wav/fr-06-fr-000001046.wav|||Il faut que j'y arrive.|
+006064|04-fr|fr|wav/fr-04-fr-000000189.wav|||Deux mimes gémissent.|
+009577|25-fr|fr|wav/fr-25-fr-000003951.wav|||Il se consulta pendant les secondes qui s'écoulèrent.|
+008148|13-fr|fr|wav/fr-13-fr-000002354.wav|||trente-deux montée de Celles, zéro sept, huit cents La Voulte-sur-Rhône|
+005943|01-fr|fr|wav/fr-01-fr-000000067.wav|||Ce sont nos élus locaux, nos associations et nos bénévoles qui animent le territoire.|
+006611|04-fr|fr|wav/fr-04-fr-000000741.wav|||J'ai inventé le bazooka à jambon.|
+006367|04-fr|fr|wav/fr-04-fr-000000497.wav|||Si seulement mes voisins pouvaient partir plus souvent.|
+008895|20-fr|fr|wav/fr-20-fr-000003110.wav|||trois rue de Damigny, soixante et un, deux cent cinquante, Lonrai|
+009625|26-fr|fr|wav/fr-26-fr-000003999.wav|||Ça nous a coûté cher.|
+006499|04-fr|fr|wav/fr-04-fr-000000629.wav|||dans ces systèmes intégrables on obtient à la fin des trajectoires périodiques|
+008477|16-fr|fr|wav/fr-16-fr-000002691.wav|||Comme j'en rirais! Mais, au moment le plus beau, tout s'arrêta.|
+006604|04-fr|fr|wav/fr-04-fr-000000734.wav|||J'aime pas quand un gars regarde son téléphone au cinéma.|
+007051|07-fr|fr|wav/fr-07-fr-000001192.wav|||Ne serre pas trop. j'ai le sang à la tête!|
+006234|04-fr|fr|wav/fr-04-fr-000000363.wav|||Rambourg le suivait.|
+007546|09-fr|fr|wav/fr-09-fr-000001687.wav|||Ribéride vint parler à Dubourg.|
+007368|09-fr|fr|wav/fr-09-fr-000001509.wav|||A ces mots, l'avocat se souvint de madame Cardoche et de ses inquiétudes.|
+008681|19-fr|fr|wav/fr-19-fr-000002896.wav|||Route du Pierry, soixante et onze mille cinq cents Saint-Usuge|
+009615|25-fr|fr|wav/fr-25-fr-000003989.wav|||J'ai dit que depuis quelque temps tu donnais des signes d’aliénation mentale.|
+009029|20-fr|fr|wav/fr-20-fr-000003244.wav|||C'est l’amendement du groupe socialiste qui a été adopté.|
+006232|04-fr|fr|wav/fr-04-fr-000000361.wav|||Le Silène à lunettes mâchait du pain en choisissant vite les caractères du casier.|
+007202|07-fr|fr|wav/fr-07-fr-000001343.wav|||Et si nous allumions du feu?|
+009654|26-fr|fr|wav/fr-26-fr-000004028.wav|||Treize maisons.|
+006620|04-fr|fr|wav/fr-04-fr-000000751.wav|||Casimir Perier n'en veut pas!|
+007723|11-fr|fr|wav/fr-11-fr-000001870.wav|||Chemin de Mas de Blais à Briançon|
+008336|16-fr|fr|wav/fr-16-fr-000002550.wav|||C'est égal, le trait avait porté, tout Paris s'émut.|
+009002|20-fr|fr|wav/fr-20-fr-000003217.wav|||La présence d'un étranger dans ma maison. ça me trouble. ça m’anéantit.|
+006708|04-fr|fr|wav/fr-04-fr-000000839.wav|||Je suis choqué déçu.|
+009566|25-fr|fr|wav/fr-25-fr-000003940.wav|||Horaires d'ouverture: lundi, mercredi, vendredi de quatorze heures à dix-huit heures trente.|
+007967|11-fr|fr|wav/fr-11-fr-000002114.wav|||L'amendement de Madame Boyer est vraiment élémentaire.|
+006783|04-fr|fr|wav/fr-04-fr-000000914.wav|||Je ne vois pas comment cela pourrait se justifier.|
+006319|04-fr|fr|wav/fr-04-fr-000000449.wav|||Sa frénésie l'étouffa.|
+006830|05-fr|fr|wav/fr-05-fr-000000971.wav|||Nous ne voulons pas non plus d'une loi qui serait un leurre.|
+006352|04-fr|fr|wav/fr-04-fr-000000482.wav|||La plupart des vociférations s'apaisèrent.|
+007670|10-fr|fr|wav/fr-10-fr-000001811.wav|||Tao c'est dans les cités d'or?|
+006874|05-fr|fr|wav/fr-05-fr-000001015.wav|||Elle viendra probablement plus tard.|
+007800|11-fr|fr|wav/fr-11-fr-000001947.wav|||Impasse de la Bourdinerie à Vernou-sur-Brenne|
+008269|15-fr|fr|wav/fr-15-fr-000002483.wav|||Ses fines paupières battirent.|
+008833|19-fr|fr|wav/fr-19-fr-000003048.wav|||Traverse du Pinson, quatre-vingt-trois, cent soixante La Valette-du-Var|
+007731|11-fr|fr|wav/fr-11-fr-000001878.wav|||Belle salle, du reste. très belle salle.|
+007709|11-fr|fr|wav/fr-11-fr-000001856.wav|||Vachonnet finissant son mot.|
+009584|25-fr|fr|wav/fr-25-fr-000003958.wav|||Six.|
+006175|04-fr|fr|wav/fr-04-fr-000000300.wav|||Ha je comprends, c'est une bonne raison.|
+007796|11-fr|fr|wav/fr-11-fr-000001943.wav|||Faites-donc respecter votre autorité, et mettez aux arrêts cet officier qui se révolte.|
+009182|21-fr|fr|wav/fr-21-fr-000003397.wav|||Ça ne peut pourtant pas être très parisien.|
+007275|08-fr|fr|wav/fr-08-fr-000001416.wav|||je crois que ça a pesé dans la balance.|
+006504|04-fr|fr|wav/fr-04-fr-000000634.wav|||Il se rua vers Enfantin, les poings fermés.|
+007257|08-fr|fr|wav/fr-08-fr-000001398.wav|||Une groupie d'Alain Juppé tirait parti de vos succès.|
+006374|04-fr|fr|wav/fr-04-fr-000000504.wav|||On aurait du mettre ton nom sur le doudou.|
+006043|04-fr|fr|wav/fr-04-fr-000000168.wav|||Ces façons déridaient Omer, mais lui répugnaient aussi.|
+009511|25-fr|fr|wav/fr-25-fr-000003885.wav|||Ils lisent.|
+006942|06-fr|fr|wav/fr-06-fr-000001083.wav|||Je suis saisie de deux amendements identiques, numéros dix et quatre cent quatre-vingt-un.|
+006820|05-fr|fr|wav/fr-05-fr-000000961.wav|||Entre elle et Dacoma lui-même, leur choix n'eût pas été douteux.|
+006110|04-fr|fr|wav/fr-04-fr-000000235.wav|||On ne m'avait pas prévenu d'un tel risque d'inondation.|
+009459|22-fr|fr|wav/fr-22-fr-000003674.wav|||Madame Gaudin La probité!|
+006431|04-fr|fr|wav/fr-04-fr-000000561.wav|||En gambadant, les apprentis lui claquaient la croupe pour la calmer.|
+008354|16-fr|fr|wav/fr-16-fr-000002568.wav|||Allô! oui, c'est re-moi.|
+008072|11-fr|fr|wav/fr-11-fr-000002219.wav|||Vachonnet Pour . pour . quoi ça?|
+009078|20-fr|fr|wav/fr-20-fr-000003293.wav|||Le mari fait mettre le cercueil sur un radeau et s'y embarque aussi.|
+009519|25-fr|fr|wav/fr-25-fr-000003893.wav|||La tienne.|
+007815|11-fr|fr|wav/fr-11-fr-000001962.wav|||huit BIS rue du Puy Vineux, soixante-trois, zéro zéro zéro à Clermont-Ferrand|
+009613|25-fr|fr|wav/fr-25-fr-000003987.wav|||Ce n'est pas respectueux du rôle des élus locaux.|
+008417|16-fr|fr|wav/fr-16-fr-000002631.wav|||C'est les Kurdes qui ont gagné à Kobané.|
+006909|06-fr|fr|wav/fr-06-fr-000001050.wav|||Son coup de patte est redoutable.|
+006464|04-fr|fr|wav/fr-04-fr-000000594.wav|||C'était la consternation de chacun.|
+006894|06-fr|fr|wav/fr-06-fr-000001035.wav|||Un courage d'homme ne peut aller plus loin.|
+006824|05-fr|fr|wav/fr-05-fr-000000965.wav|||quarante-deux boulevard Pierre Larousse, quatre-vingt-neuf, cent trente, Toucy|
+009410|21-fr|fr|wav/fr-21-fr-000003625.wav|||vingt-quatre résidence Alain Fournier, trente-deux, trois cents, Mirande|
+008420|16-fr|fr|wav/fr-16-fr-000002634.wav|||un truc qui présentait de l'intérêt pour lui,|
+007906|11-fr|fr|wav/fr-11-fr-000002053.wav|||Et je compris.|
+007042|07-fr|fr|wav/fr-07-fr-000001183.wav|||elle n'était pas à vous, la montre.|
+008191|14-fr|fr|wav/fr-14-fr-000002405.wav|||trois cent vingt allée des Névons, quatre-vingt-quatre, huit cents à L'Isle-sur-la-Sorgue|
+008762|19-fr|fr|wav/fr-19-fr-000002977.wav|||quatre Expression de Stella.|
+006900|06-fr|fr|wav/fr-06-fr-000001041.wav|||Alors elle était parfois un peu brusque avec elle|
+008570|17-fr|fr|wav/fr-17-fr-000002784.wav|||J'en ai pourtant vu, moi qui suis vieux!|
+006116|04-fr|fr|wav/fr-04-fr-000000241.wav|||Ses grisettes aidaient le récit, corsaient le drame au grand émoi des concierges.|
+006763|04-fr|fr|wav/fr-04-fr-000000894.wav|||Il accusa ce dernier d'entretenir une correspondance avec Bernadotte.|
+006301|04-fr|fr|wav/fr-04-fr-000000430.wav|||Les yeux verts luisaient.|
+008129|13-fr|fr|wav/fr-13-fr-000002335.wav|||Nous pourrions en convenir collectivement, dans la sérénité.|
+007474|09-fr|fr|wav/fr-09-fr-000001615.wav|||Maintenant il faut vaincre.|
+007702|10-fr|fr|wav/fr-10-fr-000001849.wav|||S'occuper du téléphone.|
+006158|04-fr|fr|wav/fr-04-fr-000000283.wav|||L'apprenti glissait avec son tambour et sa casquette à gland.|
+008983|20-fr|fr|wav/fr-20-fr-000003198.wav|||Sur un geste pudique de Maltenu. . parfaitement!|
+008972|20-fr|fr|wav/fr-20-fr-000003187.wav|||Que diriez-vous de díner avec moi?|
+008297|16-fr|fr|wav/fr-16-fr-000002511.wav|||C'est là que tu glanes de l’info.|
+008344|16-fr|fr|wav/fr-16-fr-000002558.wav|||Leurs yeux se mangeaient, on dut les séparer.|
+007976|11-fr|fr|wav/fr-11-fr-000002123.wav|||L'Océan Pacifique.|
+008426|16-fr|fr|wav/fr-16-fr-000002640.wav|||Une heure sonna à quelque clocher lointain.|
+007435|09-fr|fr|wav/fr-09-fr-000001576.wav|||Les rescapées demandent l'ensemble des castors du Nebraska à la cinéphile!|
+008837|19-fr|fr|wav/fr-19-fr-000003052.wav|||Même chose pour l'amendement numéro huit cent soixante-huit.|
+009088|20-fr|fr|wav/fr-20-fr-000003303.wav|||Ni l'État, ni le pays.|
+008588|18-fr|fr|wav/fr-18-fr-000002803.wav|||Tu le sais, non? Commande-moi des huítres.|
+006252|04-fr|fr|wav/fr-04-fr-000000381.wav|||Il jeta à peine un oeil au parc, d'habitude si rassurant.|
+008100|13-fr|fr|wav/fr-13-fr-000002306.wav|||treize rue du Docteur Jeune|
+006703|04-fr|fr|wav/fr-04-fr-000000834.wav|||Je pars de rien, j'ai tout à gagner.|
+006393|04-fr|fr|wav/fr-04-fr-000000523.wav|||Je suis content d'avoir deux mamans.|
+008720|19-fr|fr|wav/fr-19-fr-000002935.wav|||Avenue Pierre Thomas au numéro onze|
+007867|11-fr|fr|wav/fr-11-fr-000002014.wav|||Rue Docteur Roger Fesneau au numéro quatorze|
+006637|04-fr|fr|wav/fr-04-fr-000000768.wav|||Ils déferlent sous le soleil de Caracas.|
+007336|09-fr|fr|wav/fr-09-fr-000001477.wav|||En vain se démenaient-ils.|
+007118|07-fr|fr|wav/fr-07-fr-000001259.wav|||Alors, comme rien ne la retenait, autant cette culbute-là qu'une autre.|
+008541|17-fr|fr|wav/fr-17-fr-000002755.wav|||Les conseils généraux et les ARS travaillent fréquemment ensemble.|
+006654|04-fr|fr|wav/fr-04-fr-000000785.wav|||Devait-il lui, se poser en rival de Dieu.|
+008077|11-fr|fr|wav/fr-11-fr-000002224.wav|||J'ignore ce qu'il est et qui le possède aujourd'hui.|
+006420|04-fr|fr|wav/fr-04-fr-000000550.wav|||Tiens j'ai encore oublié de déclarer mes taxes.|
+009391|21-fr|fr|wav/fr-21-fr-000003606.wav|||La parole est à Madame Sandrine Doucet.|
+007181|07-fr|fr|wav/fr-07-fr-000001322.wav|||Il y a eu une amorce de discussion cet après-midi.|
+007861|11-fr|fr|wav/fr-11-fr-000002008.wav|||Quel hurluberlu!|
+009593|25-fr|fr|wav/fr-25-fr-000003967.wav|||Les pauvres diables que c'étaient là!|
+008771|19-fr|fr|wav/fr-19-fr-000002986.wav|||Aujourd'hui École Jean Jaurès.|
+006469|04-fr|fr|wav/fr-04-fr-000000599.wav|||Le lendemain, Denise accourut chez son frère.|
+007830|11-fr|fr|wav/fr-11-fr-000001977.wav|||Lesquelles vous plaisent?|
+008514|17-fr|fr|wav/fr-17-fr-000002728.wav|||Dès que Fougueray sera arrivé, se disait-il, je saurai à quoi m'en tenir.|
+006491|04-fr|fr|wav/fr-04-fr-000000621.wav|||Les gérants joignaient la plongée sous-marine et les alcooliques.|
+008670|19-fr|fr|wav/fr-19-fr-000002885.wav|||Volney, Condillac, lui révéleraient aussi le monde.|
+007258|08-fr|fr|wav/fr-08-fr-000001399.wav|||Les maquettistes aux traits porcins tournent le dos à un saucisson.|
+007179|07-fr|fr|wav/fr-07-fr-000001320.wav|||Je ferai comme il voudra.|
+009251|21-fr|fr|wav/fr-21-fr-000003466.wav|||Dupérier, arrivée la veille de la fête de la Vierge.|
+008425|16-fr|fr|wav/fr-16-fr-000002639.wav|||Il montait n'importe quel autre escalier en trottinant|
+009354|21-fr|fr|wav/fr-21-fr-000003569.wav|||Je suppose qu'il a été grandement inspiré des événements récents.|
+008118|13-fr|fr|wav/fr-13-fr-000002324.wav|||J'entends bien ce que vient de dire Monsieur Touraine.|
+005953|02-fr|fr|wav/fr-02-fr-000000077.wav|||C'est ton avis, Keinec? Oui.|
+009128|21-fr|fr|wav/fr-21-fr-000003343.wav|||On comprend mieux pourquoi cette loi n'est pas appliquée.|
+006002|02-fr|fr|wav/fr-02-fr-000000127.wav|||En souvenir de ces relations, elle espérait une aide.|
+008907|20-fr|fr|wav/fr-20-fr-000003122.wav|||Monsieur le rapporteur général se trompe.|
+009514|25-fr|fr|wav/fr-25-fr-000003888.wav|||La pièce était surchargée de papiers, disposés en désordre sur le bureau|
+008596|18-fr|fr|wav/fr-18-fr-000002811.wav|||Quelque chose.|
+007032|06-fr|fr|wav/fr-06-fr-000001173.wav|||Votre vieux serviteur vous suivra dans la tombe.|
+009126|21-fr|fr|wav/fr-21-fr-000003341.wav|||Il nous faut donc trouver des solutions pour concilier ces deux points de vue.|
+007722|11-fr|fr|wav/fr-11-fr-000001869.wav|||Ces dames vont partir?|
+008184|14-fr|fr|wav/fr-14-fr-000002398.wav|||trois cent soixante-huit rue des Collots|
+007972|11-fr|fr|wav/fr-11-fr-000002119.wav|||Oui. l'ami Chavarot!|
+009422|21-fr|fr|wav/fr-21-fr-000003637.wav|||Pourvu que tout ne soit pas bouleversé!|
+005998|02-fr|fr|wav/fr-02-fr-000000123.wav|||Je suis, à ma honte, plus amante que je ne suis fille.|
+007381|09-fr|fr|wav/fr-09-fr-000001522.wav|||Il se crut intérieurement éclairé dans tout le mystère de sa conscience.|
+007996|11-fr|fr|wav/fr-11-fr-000002143.wav|||Le cap'n lui a logé quelque chose entre les côtes, et le moricaud est tombé.|
+007044|07-fr|fr|wav/fr-07-fr-000001185.wav|||Alors c'est que Votre Excellence serait une exception.|
+007117|07-fr|fr|wav/fr-07-fr-000001258.wav|||Elle se fondait dans l'ivresse de la gloire.|
+007326|08-fr|fr|wav/fr-08-fr-000001467.wav|||Un grand costaud qui devait peser cent dix kilos.|
+009034|20-fr|fr|wav/fr-20-fr-000003249.wav|||L'on convenait que partout les inspirés obtenaient le succès d'une réforme morale.|
+009069|20-fr|fr|wav/fr-20-fr-000003284.wav|||Horrifiés, courroucés, ils jetaient à l'ennemi des regards farouches.|
+007627|10-fr|fr|wav/fr-10-fr-000001768.wav|||Il y a du monde dans la salle.|
+007685|10-fr|fr|wav/fr-10-fr-000001826.wav|||Annette s'éveillait à son moindre cri.|
+006855|05-fr|fr|wav/fr-05-fr-000000996.wav|||L'artiste est revenu ce matin.|
+013471|04-ru|ru|wav/ru-04-ru-000002122.wav|||Вопрос о запрещении производства расщепляющегося материала уже давно лежит у нас на столе.|
+012735|02-ru|ru|wav/ru-02-ru-000001381.wav|||Но это были не хозяева.|
+013628|04-ru|ru|wav/ru-04-ru-000002279.wav|||Выставка Пикассо, импрессионисты которые были запрещены, и так далее.|
+013764|04-ru|ru|wav/ru-04-ru-000002415.wav|||И мы искренне признательны им за это.|
+014482|06-ru|ru|wav/ru-06-ru-000004633.wav|||Поиск путей эффективного и долгосрочного афганского урегулирования остается ключевой задачей международного сообщества.|
+013612|04-ru|ru|wav/ru-04-ru-000002263.wav|||Со своей стороны, мы стремились отразить в тексте замечания и предложения всех заинтересованных сторон.|
+013830|05-ru|ru|wav/ru-05-ru-000002481.wav|||Теперь кратко по поводу предлагаемых предложений по процедурным вопросам.|
+014024|05-ru|ru|wav/ru-05-ru-000002675.wav|||Ситуация в Афганистане является неустойчивой, и каждая неделя, как представляется, приносит свою долю трагедий.|
+011673|02-ru|ru|wav/ru-02-ru-000000319.wav|||Заслуживает всяческих похвал то, что сомалийцы начали разрабатывать свои природные ресурсы.|
+013871|05-ru|ru|wav/ru-05-ru-000002522.wav|||И я приветствую приверженность обеспечению полной ответственности за эти события.|
+013794|05-ru|ru|wav/ru-05-ru-000002445.wav|||Все так, говорила Ольга. Но я не знаю, куда пропала Женя.|
+013156|02-ru|ru|wav/ru-02-ru-000001802.wav|||Координатор мог бы также изучить необходимость и рамки полного обзора правил процедуры.|
+012281|02-ru|ru|wav/ru-02-ru-000000927.wav|||Некоторые регионы в мире заключили такие договоры, и мы это приветствуем.|
+012571|02-ru|ru|wav/ru-02-ru-000001217.wav|||Я? Через забор? обиделся человек.|
+012764|02-ru|ru|wav/ru-02-ru-000001410.wav|||Вся остальная жизнь прошла там.|
+012321|02-ru|ru|wav/ru-02-ru-000000967.wav|||Юрист любой знает, что конфедерация - это не федерация, это союз организаций.|
+012674|02-ru|ru|wav/ru-02-ru-000001320.wav|||Хотя последние политические события осложнили организацию такой конференции, они одновременно повысили актуальность этого вопроса.|
+014176|05-ru|ru|wav/ru-05-ru-000002998.wav|||Этого Георгий не ожидал.|
+014373|05-ru|ru|wav/ru-05-ru-000003195.wav|||Сегодня судебная система является в полной мере независимой|
+013931|05-ru|ru|wav/ru-05-ru-000002582.wav|||Разве требования палестинцев не такие же законные, как требования других народов региона?|
+013384|03-ru|ru|wav/ru-03-ru-000002030.wav|||Это было бы опасным попятным шагом.|
+011693|02-ru|ru|wav/ru-02-ru-000000339.wav|||Эти усилия увенчались принятием представленного нам сегодня текста.|
+012912|02-ru|ru|wav/ru-02-ru-000001558.wav|||В ответ международные сотрудники были временно перемещены, пока дается оценка ситуации в области безопасности.|
+013795|05-ru|ru|wav/ru-05-ru-000002446.wav|||Нельзя допустить, чтобы эта проблема затерялась среди других проблем и событий в регионе.|
+013168|02-ru|ru|wav/ru-02-ru-000001814.wav|||Об этом не следует забывать.|
+013473|04-ru|ru|wav/ru-04-ru-000002124.wav|||Пятьдесят два миллиарда сто двадцать четыре миллиона шестьсот сорок одна тысяча семьсот шестьдесят четыре.|
+012111|02-ru|ru|wav/ru-02-ru-000000757.wav|||И тут имеют место острые проблемы.|
+013388|03-ru|ru|wav/ru-03-ru-000002034.wav|||На её велосипеде отвалился катафот.|
+012676|02-ru|ru|wav/ru-02-ru-000001322.wav|||Этому надо положить конец.|
+014315|05-ru|ru|wav/ru-05-ru-000003137.wav|||Хозяев дома не было.|
+011454|01-ru|ru|wav/ru-01-ru-000000100.wav|||Мы глубоко обеспокоены продолжающимся насилием, особенно в Южном Кордофане.|
+013323|03-ru|ru|wav/ru-03-ru-000001969.wav|||Концы в воду всегда работает.|
+011782|02-ru|ru|wav/ru-02-ru-000000428.wav|||Мы должны найти конструктивный, дипломатический путь продвижения вперед.|
+011697|02-ru|ru|wav/ru-02-ru-000000343.wav|||Между, скажем, массой бозона Хиггса и гравитационной постоянной.|
+011865|02-ru|ru|wav/ru-02-ru-000000511.wav|||Я так и знал!|
+012299|02-ru|ru|wav/ru-02-ru-000000945.wav|||Он не поддержал своим весом и авторитетом усилия Лиги арабских государств.|
+011788|02-ru|ru|wav/ru-02-ru-000000434.wav|||Нгерулмуд - столица Палау.|
+014112|05-ru|ru|wav/ru-05-ru-000002763.wav|||Присутствие миротворцев Организации Объединенных Наций следует адаптировать к потребностям на местах.|
+012055|02-ru|ru|wav/ru-02-ru-000000701.wav|||Надо сказать, что Андропов сам придерживался довольно радикальных взглядов.|
+011761|02-ru|ru|wav/ru-02-ru-000000407.wav|||А теперь слово имеет следующий оратор у меня в списке - посол Австралии.|
+011705|02-ru|ru|wav/ru-02-ru-000000351.wav|||Я бы хотел оплатить картой.|
+012835|02-ru|ru|wav/ru-02-ru-000001481.wav|||Так что образ города будет совсем другим.|
+012635|02-ru|ru|wav/ru-02-ru-000001281.wav|||Как оно теперь: по-нашему или по-вашему выйдет?|
+011526|02-ru|ru|wav/ru-02-ru-000000172.wav|||Или там Шурпина картина Утро нашей родины.|
+013576|04-ru|ru|wav/ru-04-ru-000002227.wav|||Комиссия должна обсуждать и выносить рекомендации Первому комитету посредством резолюций.|
+012152|02-ru|ru|wav/ru-02-ru-000000798.wav|||Он должен, на наш взгляд, урегулировать существующие запасы.|
+011575|02-ru|ru|wav/ru-02-ru-000000221.wav|||Вернувшись на чердак, Тимур рассказал о своей встрече ребятам.|
+012875|02-ru|ru|wav/ru-02-ru-000001521.wav|||Дай, думаю, подожду и подвезу, если по дороге.|
+011981|02-ru|ru|wav/ru-02-ru-000000627.wav|||Мы только что заслушали последнего оратора у меня в списке.|
+012921|02-ru|ru|wav/ru-02-ru-000001567.wav|||Сейчас я предоставляю слово представителю Перу.|
+011549|02-ru|ru|wav/ru-02-ru-000000195.wav|||И рассадил их заместителями начальника управления или начальниками управлений.|
+013236|02-ru|ru|wav/ru-02-ru-000001882.wav|||Был он проректором, довольно заметным.|
+012696|02-ru|ru|wav/ru-02-ru-000001342.wav|||Таким образом, я ограничу свои замечания следующими моментами.|
+013992|05-ru|ru|wav/ru-05-ru-000002643.wav|||И это лишь немногие из затрагивавшихся проблем.|
+013854|05-ru|ru|wav/ru-05-ru-000002505.wav|||Мы здесь одни.|
+011391|01-ru|ru|wav/ru-01-ru-000000036.wav|||Мы надеемся, что в будущем эти недостатки будут устранены.|
+014194|05-ru|ru|wav/ru-05-ru-000003016.wav|||Избранными могут быть только те кандидаты, чьи фамилии значатся в бюллетенях для голосования.|
+011949|02-ru|ru|wav/ru-02-ru-000000595.wav|||Эй, робот, а ну иди работать!|
+013598|04-ru|ru|wav/ru-04-ru-000002249.wav|||Теперь я предоставляю слово представителю Франции.|
+014320|05-ru|ru|wav/ru-05-ru-000003142.wav|||Здесь люди поют. музыка.|
+012886|02-ru|ru|wav/ru-02-ru-000001532.wav|||То есть как на трубе?|
+012606|02-ru|ru|wav/ru-02-ru-000001252.wav|||Когда речь идет о нас, невозможно добиться чего-либо без нас.|
+012087|02-ru|ru|wav/ru-02-ru-000000733.wav|||Хозяев дома не было.|
+012971|02-ru|ru|wav/ru-02-ru-000001617.wav|||Мы должны активнее использовать энергию и энтузиазм молодых людей.|
+013353|03-ru|ru|wav/ru-03-ru-000001999.wav|||Они растворились в уличной толпе.|
+012131|02-ru|ru|wav/ru-02-ru-000000777.wav|||Так как это благотворительный фонд, речь о прибыли не идёт.|
+012900|02-ru|ru|wav/ru-02-ru-000001546.wav|||На этом я завершил краткое описание наиболее важных аспектов доклада.|
+014569|06-ru|ru|wav/ru-06-ru-000004720.wav|||Мы признаем важный вклад Генерального секретаря Конференции в эти дебаты.|
+011894|02-ru|ru|wav/ru-02-ru-000000540.wav|||Я хочу пожаловаться на плохое обслуживание в мастерской.|
+011656|02-ru|ru|wav/ru-02-ru-000000302.wav|||Я просто хотел бы официально занести это в протокол.|
+011815|02-ru|ru|wav/ru-02-ru-000000461.wav|||Мы слышим неоднократные ссылки на мандат Шеннон в качестве основы для урегулирования проблемы запасов.|
+014125|05-ru|ru|wav/ru-05-ru-000002776.wav|||Благодарю представителя Соединенных Штатов за ее заявление.|
+011862|02-ru|ru|wav/ru-02-ru-000000508.wav|||Ольга подняла и прочла: Девочка, никого дома не бойся.|
+014622|06-ru|ru|wav/ru-06-ru-000004773.wav|||Она вздрагивала.|
+014422|05-ru|ru|wav/ru-05-ru-000003244.wav|||Гейка, пробормотал он, поднимая лицо, ты откуда?|
+014239|05-ru|ru|wav/ru-05-ru-000003061.wav|||Поступил я на философский факультет.|
+012418|02-ru|ru|wav/ru-02-ru-000001064.wav|||Деревянная дверь сарая покоробилась от холода и потому открывалась с большим трудом.|
+012412|02-ru|ru|wav/ru-02-ru-000001058.wav|||Эти комитеты созданы для решения вопросов постконфликтного развития на местах.|
+013991|05-ru|ru|wav/ru-05-ru-000002642.wav|||Достижение прогресса будет зависеть, прежде всего, от политического руководства страны и самого народа Сомали.|
+011934|02-ru|ru|wav/ru-02-ru-000000580.wav|||Свист в саду услыхали.|
+013108|02-ru|ru|wav/ru-02-ru-000001754.wav|||Сокращение запасов расщепляющегося материала для ядерных устройств настоятельно необходимо и ввиду их масштабов.|
+013303|03-ru|ru|wav/ru-03-ru-000001949.wav|||Информацию об этом можно найти в документах Совместной военной комиссии.|
+013879|05-ru|ru|wav/ru-05-ru-000002530.wav|||Попробуем же эти варианты!|
+013816|05-ru|ru|wav/ru-05-ru-000002467.wav|||Норвегия намерена выступать активным партнером в этом процессе.|
+014474|06-ru|ru|wav/ru-06-ru-000004625.wav|||Этот аппарат, как правило, имел свои особенности работы.|
+011902|02-ru|ru|wav/ru-02-ru-000000548.wav|||Мы также выражаем признательность Специальному представителю Генерального секретаря Огастину Махиге за его сегодняшний брифинг.|
+011362|01-ru|ru|wav/ru-01-ru-000000007.wav|||Нет, не поняла Женя.|
+012190|02-ru|ru|wav/ru-02-ru-000000836.wav|||Чтобы реанимировать данный орган, Ирландия твердо выступает за ряд шагов.|
+012222|02-ru|ru|wav/ru-02-ru-000000868.wav|||Исходя из этого и был создан алгоритм распознавания угрозы жизни.|
+012284|02-ru|ru|wav/ru-02-ru-000000930.wav|||Международному сообществу срочно необходимо пресечь это насилие.|
+011887|02-ru|ru|wav/ru-02-ru-000000533.wav|||Пятьдесят три миллиарда восемьсот восемьдесят два миллиона триста пятьдесят девять тысяч шестьсот восемнадцать.|
+012796|02-ru|ru|wav/ru-02-ru-000001442.wav|||Холщовая рубаха его была бедна.|
+014206|05-ru|ru|wav/ru-05-ru-000003028.wav|||В этом музее выставлялась настоящая средневековая катапульта|
+014201|05-ru|ru|wav/ru-05-ru-000003023.wav|||Лево руля на борт! громко скомандовала Женя и крепче налегла на тяжелое колесо.|
+014610|06-ru|ru|wav/ru-06-ru-000004761.wav|||А заходите справа! закричал из-за ограды Квакин.|
+014621|06-ru|ru|wav/ru-06-ru-000004772.wav|||И, махнув рукой, она не сказала сестре больше ни слова.|
+013617|04-ru|ru|wav/ru-04-ru-000002268.wav|||Да вы и сами, господин Председатель, касались этого в своем вводном слове.|
+011747|02-ru|ru|wav/ru-02-ru-000000393.wav|||Вы кого в вашей опере играете? присаживаясь на траву, спросила Ольга.|
+012285|02-ru|ru|wav/ru-02-ru-000000931.wav|||Но, Оля, пробормотала Женя, что с тобою?|
+013055|02-ru|ru|wav/ru-02-ru-000001701.wav|||Я не люблю овощи.|
+013467|04-ru|ru|wav/ru-04-ru-000002118.wav|||Принцип консенсуса сопряжен с преимуществами для многосторонних переговоров.|
+013768|04-ru|ru|wav/ru-04-ru-000002419.wav|||Слово имеет представитель Финляндии.|
+013880|05-ru|ru|wav/ru-05-ru-000002531.wav|||Мы считаем эти договоры жизненно важными для достижения целей этих проектов резолюций.|
+012959|02-ru|ru|wav/ru-02-ru-000001605.wav|||Веревочные провода над крышей задрожали.|
+013662|04-ru|ru|wav/ru-04-ru-000002313.wav|||Учитывая загруженную программу работы Совета, я сокращу свое выступление.|
+013500|04-ru|ru|wav/ru-04-ru-000002151.wav|||Широченные штаны - в заплатках.|
+011676|02-ru|ru|wav/ru-02-ru-000000322.wav|||Это был мой первый опыт езды с левосторонним движением.|
+013000|02-ru|ru|wav/ru-02-ru-000001646.wav|||Заниматься ликвидацией негативных последствий ливийского конфликта должна не только Африка.|
+012572|02-ru|ru|wav/ru-02-ru-000001218.wav|||Благодарю представителя Турции за ее заявление.|
+011648|02-ru|ru|wav/ru-02-ru-000000294.wav|||Вторым аспектом, который я хотел бы высветить, является трактовка запасов.|
+013315|03-ru|ru|wav/ru-03-ru-000001961.wav|||Руслан еще не дописал свой реферат.|
+013405|03-ru|ru|wav/ru-03-ru-000002051.wav|||Россия готова и дальше продвигаться по пути проверяемых и необратимых сокращений ядерного оружия.|
+013139|02-ru|ru|wav/ru-02-ru-000001785.wav|||Недавно мы подошли к этому очень близко.|
+011608|02-ru|ru|wav/ru-02-ru-000000254.wav|||В этой связи они также подчеркивали необходимость соблюдения международных обязательств.|
+012828|02-ru|ru|wav/ru-02-ru-000001474.wav|||Лед такой холодный, что от него идёт пар.|
+012655|02-ru|ru|wav/ru-02-ru-000001301.wav|||Он всё уже это знал и изучил.|
+011909|02-ru|ru|wav/ru-02-ru-000000555.wav|||Международное сообщество располагает значительными, но вместе с тем ограниченными возможностями.|
+011836|02-ru|ru|wav/ru-02-ru-000000482.wav|||Здесь, в Совете Безопасности, нашего особого внимания сегодня требуют три ситуации.|
+011438|01-ru|ru|wav/ru-01-ru-000000084.wav|||Несмотря на все это, политический переход в Гаити происходит не без трудностей.|
+012025|02-ru|ru|wav/ru-02-ru-000000671.wav|||Он был необычным человеком, который присматривался к западному опыту.|
+012922|02-ru|ru|wav/ru-02-ru-000001568.wav|||Это вполне понятно и заслуживает уважения.|
+012086|02-ru|ru|wav/ru-02-ru-000000732.wav|||Африку связывают с Палестиной тесные исторические узы.|
+012760|02-ru|ru|wav/ru-02-ru-000001406.wav|||Работа над предлагаемой конвенцией должна строиться на недискриминационной основе.|
+012132|02-ru|ru|wav/ru-02-ru-000000778.wav|||К числу важнейших задач относятся завершение разработки новой конституции и созыв учредительного собрания.|
+013982|05-ru|ru|wav/ru-05-ru-000002633.wav|||Многие на Западе опасаются усиления политического Ислама.|
+012399|02-ru|ru|wav/ru-02-ru-000001045.wav|||Оборонительная позиция по Фолклендским островам остается неизменной на протяжении многих лет.|
+014078|05-ru|ru|wav/ru-05-ru-000002729.wav|||Этот вопрос должен решаться в ходе переговоров.|
+012852|02-ru|ru|wav/ru-02-ru-000001498.wav|||Помню, батюшка, очень хорошо помню, что вы были.|
+012360|02-ru|ru|wav/ru-02-ru-000001006.wav|||Как правило, подобные сканеры тяжелы, громоздки и дороги.|
+012680|02-ru|ru|wav/ru-02-ru-000001326.wav|||Со стороны Совета было бы упущением не использовать такие инструменты, когда того требуют обстоятельства.|
+012629|02-ru|ru|wav/ru-02-ru-000001275.wav|||В частности, мы очень обеспокоены последствиями продолжающегося насилия в отношении гражданского населения этих районов.|
+012761|02-ru|ru|wav/ru-02-ru-000001407.wav|||Не задавай глупых вопросов!|
+011386|01-ru|ru|wav/ru-01-ru-000000031.wav|||Мы поддерживаем проект заявления для прессы, представленный представителем Франции.|
+012322|02-ru|ru|wav/ru-02-ru-000000968.wav|||Работу над диссертацией, правда, из-за этого пришлось на время отложить.|
+013966|05-ru|ru|wav/ru-05-ru-000002617.wav|||Наша страна полностью поддерживает деятельность вышеупомянутых организаций.|
+012464|02-ru|ru|wav/ru-02-ru-000001110.wav|||Гуманитарная ситуация может подорвать прогресс, достигнутый на политическом направлении и в области безопасности.|
+013144|02-ru|ru|wav/ru-02-ru-000001790.wav|||В нем учитываются как задачи переходного процесса, так и сравнительные преимущества Организации Объединенных Наций.|
+013455|04-ru|ru|wav/ru-04-ru-000002106.wav|||Этот огнетушитель тушит порошком.|
+014478|06-ru|ru|wav/ru-06-ru-000004629.wav|||Сокращение донорского финансирования тоже отрицательно сказывается на усилиях по восстановлению.|
+012876|02-ru|ru|wav/ru-02-ru-000001522.wav|||Народ Йемена заслуживает нашей полной поддержки.|
+012109|02-ru|ru|wav/ru-02-ru-000000755.wav|||Только у колодца перепуганный Тимур остановился.|
+014418|05-ru|ru|wav/ru-05-ru-000003240.wav|||В ходе процесса переговоров ряд делегаций высказал полезные предложения.|
+011453|01-ru|ru|wav/ru-01-ru-000000099.wav|||Но сознаваться никто не хотел.|
+013507|04-ru|ru|wav/ru-04-ru-000002158.wav|||Ты оставил мне на столе записку?|
+013912|05-ru|ru|wav/ru-05-ru-000002563.wav|||Мы собрались здесь сегодня, чтобы отпраздновать Международный день солидарности с палестинским народом.|
+012070|02-ru|ru|wav/ru-02-ru-000000716.wav|||Нам всем лучше подходить к этой теме чуть менее эмоционально.|
+012290|02-ru|ru|wav/ru-02-ru-000000936.wav|||Мы подтверждаем свою полную и безусловную поддержку всех трех устоев Договора о нераспространении.|
+012364|02-ru|ru|wav/ru-02-ru-000001010.wav|||Краснодар - прекрасное место.|
+014468|06-ru|ru|wav/ru-06-ru-000004619.wav|||Первый раунд дискуссий по этой проблеме, в соответствии с согласованным графиком мероприятий, уже состоялся.|
+014238|05-ru|ru|wav/ru-05-ru-000003060.wav|||Процесс должен иметь шанс для того, чтобы развиваться и принести плоды.|
+012206|02-ru|ru|wav/ru-02-ru-000000852.wav|||Однако мы отвергаем содержащиеся в докладе необоснованные утверждения и обвинения в адрес Сирии.|
+013557|04-ru|ru|wav/ru-04-ru-000002208.wav|||Конечно, одни только односторонние действия не дают результатов, которых ожидает и требует мир.|
+011556|02-ru|ru|wav/ru-02-ru-000000202.wav|||Бесспорно, соответствующие проблемы носят сложный характер.|
+011443|01-ru|ru|wav/ru-01-ru-000000089.wav|||Эти процессы лишь отвечают интересам граждан.|
+011883|02-ru|ru|wav/ru-02-ru-000000529.wav|||Благодарю представителя Пакистана за его заявление и за его добрые слова.|
+012578|02-ru|ru|wav/ru-02-ru-000001224.wav|||Слово имеет представитель Индонезии.|
+012721|02-ru|ru|wav/ru-02-ru-000001367.wav|||Мы приветствуем его принятие.|
+013363|03-ru|ru|wav/ru-03-ru-000002009.wav|||Дом красноармейца Павла Гурьева.|
+012183|02-ru|ru|wav/ru-02-ru-000000829.wav|||Они - лидеры завтрашнего дня.|
+014316|05-ru|ru|wav/ru-05-ru-000003138.wav|||Мы глубоко сожалеем, что такая возможность была упущена.|
+012073|02-ru|ru|wav/ru-02-ru-000000719.wav|||Однако мы должны двигаться вперед в деле укрепления архитектуры защиты, проявляя осторожность и решимость.|
+014197|05-ru|ru|wav/ru-05-ru-000003019.wav|||Самое главное, Франция демонтировала свои производственные установки.|
+013522|04-ru|ru|wav/ru-04-ru-000002173.wav|||В предстоящие недели мы намерены направить большее число сотрудников из Найроби в Сомали.|
+012965|02-ru|ru|wav/ru-02-ru-000001611.wav|||Формирование правительства также приведет к решению проблем безопасности.|
 001066|12-de|de|wav/de-12-de-000001066.wav|||Kommt mit erhobenen Händen heraus!|
 004376|41-de|de|wav/de-41-de-000004376.wav|||Offenbar erwarten die Aktionäre ein dickes Umsatzplus im nächsten Quartal.|
 000228|02-de|de|wav/de-02-de-000000228.wav|||Dies ist ein sehr sonniger Ort.|
@@ -326,441 +681,87 @@
 000709|07-de|de|wav/de-07-de-000000709.wav|||Vielleicht kommt Rosanna und ganz vielleicht bringt sie noch Lieselotte mit.|
 001258|13-de|de|wav/de-13-de-000001258.wav|||In welcher Fabel soll das bitte schön vorkommen?|
 001123|12-de|de|wav/de-12-de-000001123.wav|||Ja fein gemacht, und nun noch das rechte Bein.|
-013470|04-ru|ru|wav/ru-04-ru-000002122.wav|||Вопрос о запрещении производства расщепляющегося материала уже давно лежит у нас на столе.|
-012734|02-ru|ru|wav/ru-02-ru-000001381.wav|||Но это были не хозяева.|
-013627|04-ru|ru|wav/ru-04-ru-000002279.wav|||Выставка Пикассо, импрессионисты которые были запрещены, и так далее.|
-013763|04-ru|ru|wav/ru-04-ru-000002415.wav|||И мы искренне признательны им за это.|
-014481|06-ru|ru|wav/ru-06-ru-000004633.wav|||Поиск путей эффективного и долгосрочного афганского урегулирования остается ключевой задачей международного сообщества.|
-013611|04-ru|ru|wav/ru-04-ru-000002263.wav|||Со своей стороны, мы стремились отразить в тексте замечания и предложения всех заинтересованных сторон.|
-013829|05-ru|ru|wav/ru-05-ru-000002481.wav|||Теперь кратко по поводу предлагаемых предложений по процедурным вопросам.|
-014023|05-ru|ru|wav/ru-05-ru-000002675.wav|||Ситуация в Афганистане является неустойчивой, и каждая неделя, как представляется, приносит свою долю трагедий.|
-011672|02-ru|ru|wav/ru-02-ru-000000319.wav|||Заслуживает всяческих похвал то, что сомалийцы начали разрабатывать свои природные ресурсы.|
-013870|05-ru|ru|wav/ru-05-ru-000002522.wav|||И я приветствую приверженность обеспечению полной ответственности за эти события.|
-013793|05-ru|ru|wav/ru-05-ru-000002445.wav|||Все так, говорила Ольга. Но я не знаю, куда пропала Женя.|
-013155|02-ru|ru|wav/ru-02-ru-000001802.wav|||Координатор мог бы также изучить необходимость и рамки полного обзора правил процедуры.|
-012280|02-ru|ru|wav/ru-02-ru-000000927.wav|||Некоторые регионы в мире заключили такие договоры, и мы это приветствуем.|
-012570|02-ru|ru|wav/ru-02-ru-000001217.wav|||Я? Через забор? обиделся человек.|
-012763|02-ru|ru|wav/ru-02-ru-000001410.wav|||Вся остальная жизнь прошла там.|
-012320|02-ru|ru|wav/ru-02-ru-000000967.wav|||Юрист любой знает, что конфедерация - это не федерация, это союз организаций.|
-012673|02-ru|ru|wav/ru-02-ru-000001320.wav|||Хотя последние политические события осложнили организацию такой конференции, они одновременно повысили актуальность этого вопроса.|
-014175|05-ru|ru|wav/ru-05-ru-000002998.wav|||Этого Георгий не ожидал.|
-014372|05-ru|ru|wav/ru-05-ru-000003195.wav|||Сегодня судебная система является в полной мере независимой|
-013930|05-ru|ru|wav/ru-05-ru-000002582.wav|||Разве требования палестинцев не такие же законные, как требования других народов региона?|
-013383|03-ru|ru|wav/ru-03-ru-000002030.wav|||Это было бы опасным попятным шагом.|
-011692|02-ru|ru|wav/ru-02-ru-000000339.wav|||Эти усилия увенчались принятием представленного нам сегодня текста.|
-012911|02-ru|ru|wav/ru-02-ru-000001558.wav|||В ответ международные сотрудники были временно перемещены, пока дается оценка ситуации в области безопасности.|
-013794|05-ru|ru|wav/ru-05-ru-000002446.wav|||Нельзя допустить, чтобы эта проблема затерялась среди других проблем и событий в регионе.|
-013167|02-ru|ru|wav/ru-02-ru-000001814.wav|||Об этом не следует забывать.|
-013472|04-ru|ru|wav/ru-04-ru-000002124.wav|||Пятьдесят два миллиарда сто двадцать четыре миллиона шестьсот сорок одна тысяча семьсот шестьдесят четыре.|
-012110|02-ru|ru|wav/ru-02-ru-000000757.wav|||И тут имеют место острые проблемы.|
-013387|03-ru|ru|wav/ru-03-ru-000002034.wav|||На её велосипеде отвалился катафот.|
-012675|02-ru|ru|wav/ru-02-ru-000001322.wav|||Этому надо положить конец.|
-014314|05-ru|ru|wav/ru-05-ru-000003137.wav|||Хозяев дома не было.|
-011453|01-ru|ru|wav/ru-01-ru-000000100.wav|||Мы глубоко обеспокоены продолжающимся насилием, особенно в Южном Кордофане.|
-013322|03-ru|ru|wav/ru-03-ru-000001969.wav|||Концы в воду всегда работает.|
-011781|02-ru|ru|wav/ru-02-ru-000000428.wav|||Мы должны найти конструктивный, дипломатический путь продвижения вперед.|
-011696|02-ru|ru|wav/ru-02-ru-000000343.wav|||Между, скажем, массой бозона Хиггса и гравитационной постоянной.|
-011864|02-ru|ru|wav/ru-02-ru-000000511.wav|||Я так и знал!|
-012298|02-ru|ru|wav/ru-02-ru-000000945.wav|||Он не поддержал своим весом и авторитетом усилия Лиги арабских государств.|
-011787|02-ru|ru|wav/ru-02-ru-000000434.wav|||Нгерулмуд - столица Палау.|
-014111|05-ru|ru|wav/ru-05-ru-000002763.wav|||Присутствие миротворцев Организации Объединенных Наций следует адаптировать к потребностям на местах.|
-012054|02-ru|ru|wav/ru-02-ru-000000701.wav|||Надо сказать, что Андропов сам придерживался довольно радикальных взглядов.|
-011760|02-ru|ru|wav/ru-02-ru-000000407.wav|||А теперь слово имеет следующий оратор у меня в списке - посол Австралии.|
-011704|02-ru|ru|wav/ru-02-ru-000000351.wav|||Я бы хотел оплатить картой.|
-012834|02-ru|ru|wav/ru-02-ru-000001481.wav|||Так что образ города будет совсем другим.|
-012634|02-ru|ru|wav/ru-02-ru-000001281.wav|||Как оно теперь: по-нашему или по-вашему выйдет?|
-011525|02-ru|ru|wav/ru-02-ru-000000172.wav|||Или там Шурпина картина Утро нашей родины.|
-013575|04-ru|ru|wav/ru-04-ru-000002227.wav|||Комиссия должна обсуждать и выносить рекомендации Первому комитету посредством резолюций.|
-012151|02-ru|ru|wav/ru-02-ru-000000798.wav|||Он должен, на наш взгляд, урегулировать существующие запасы.|
-011574|02-ru|ru|wav/ru-02-ru-000000221.wav|||Вернувшись на чердак, Тимур рассказал о своей встрече ребятам.|
-012874|02-ru|ru|wav/ru-02-ru-000001521.wav|||Дай, думаю, подожду и подвезу, если по дороге.|
-011980|02-ru|ru|wav/ru-02-ru-000000627.wav|||Мы только что заслушали последнего оратора у меня в списке.|
-012920|02-ru|ru|wav/ru-02-ru-000001567.wav|||Сейчас я предоставляю слово представителю Перу.|
-011548|02-ru|ru|wav/ru-02-ru-000000195.wav|||И рассадил их заместителями начальника управления или начальниками управлений.|
-013235|02-ru|ru|wav/ru-02-ru-000001882.wav|||Был он проректором, довольно заметным.|
-012695|02-ru|ru|wav/ru-02-ru-000001342.wav|||Таким образом, я ограничу свои замечания следующими моментами.|
-013991|05-ru|ru|wav/ru-05-ru-000002643.wav|||И это лишь немногие из затрагивавшихся проблем.|
-013853|05-ru|ru|wav/ru-05-ru-000002505.wav|||Мы здесь одни.|
-011390|01-ru|ru|wav/ru-01-ru-000000036.wav|||Мы надеемся, что в будущем эти недостатки будут устранены.|
-014193|05-ru|ru|wav/ru-05-ru-000003016.wav|||Избранными могут быть только те кандидаты, чьи фамилии значатся в бюллетенях для голосования.|
-011948|02-ru|ru|wav/ru-02-ru-000000595.wav|||Эй, робот, а ну иди работать!|
-013597|04-ru|ru|wav/ru-04-ru-000002249.wav|||Теперь я предоставляю слово представителю Франции.|
-014319|05-ru|ru|wav/ru-05-ru-000003142.wav|||Здесь люди поют. музыка.|
-012885|02-ru|ru|wav/ru-02-ru-000001532.wav|||То есть как на трубе?|
-012605|02-ru|ru|wav/ru-02-ru-000001252.wav|||Когда речь идет о нас, невозможно добиться чего-либо без нас.|
-012086|02-ru|ru|wav/ru-02-ru-000000733.wav|||Хозяев дома не было.|
-012970|02-ru|ru|wav/ru-02-ru-000001617.wav|||Мы должны активнее использовать энергию и энтузиазм молодых людей.|
-013352|03-ru|ru|wav/ru-03-ru-000001999.wav|||Они растворились в уличной толпе.|
-012130|02-ru|ru|wav/ru-02-ru-000000777.wav|||Так как это благотворительный фонд, речь о прибыли не идёт.|
-012899|02-ru|ru|wav/ru-02-ru-000001546.wav|||На этом я завершил краткое описание наиболее важных аспектов доклада.|
-014568|06-ru|ru|wav/ru-06-ru-000004720.wav|||Мы признаем важный вклад Генерального секретаря Конференции в эти дебаты.|
-011893|02-ru|ru|wav/ru-02-ru-000000540.wav|||Я хочу пожаловаться на плохое обслуживание в мастерской.|
-011655|02-ru|ru|wav/ru-02-ru-000000302.wav|||Я просто хотел бы официально занести это в протокол.|
-011814|02-ru|ru|wav/ru-02-ru-000000461.wav|||Мы слышим неоднократные ссылки на мандат Шеннон в качестве основы для урегулирования проблемы запасов.|
-014124|05-ru|ru|wav/ru-05-ru-000002776.wav|||Благодарю представителя Соединенных Штатов за ее заявление.|
-011861|02-ru|ru|wav/ru-02-ru-000000508.wav|||Ольга подняла и прочла: Девочка, никого дома не бойся.|
-014621|06-ru|ru|wav/ru-06-ru-000004773.wav|||Она вздрагивала.|
-014421|05-ru|ru|wav/ru-05-ru-000003244.wav|||Гейка, пробормотал он, поднимая лицо, ты откуда?|
-014238|05-ru|ru|wav/ru-05-ru-000003061.wav|||Поступил я на философский факультет.|
-012417|02-ru|ru|wav/ru-02-ru-000001064.wav|||Деревянная дверь сарая покоробилась от холода и потому открывалась с большим трудом.|
-012411|02-ru|ru|wav/ru-02-ru-000001058.wav|||Эти комитеты созданы для решения вопросов постконфликтного развития на местах.|
-013990|05-ru|ru|wav/ru-05-ru-000002642.wav|||Достижение прогресса будет зависеть, прежде всего, от политического руководства страны и самого народа Сомали.|
-011933|02-ru|ru|wav/ru-02-ru-000000580.wav|||Свист в саду услыхали.|
-013107|02-ru|ru|wav/ru-02-ru-000001754.wav|||Сокращение запасов расщепляющегося материала для ядерных устройств настоятельно необходимо и ввиду их масштабов.|
-013302|03-ru|ru|wav/ru-03-ru-000001949.wav|||Информацию об этом можно найти в документах Совместной военной комиссии.|
-013878|05-ru|ru|wav/ru-05-ru-000002530.wav|||Попробуем же эти варианты!|
-013815|05-ru|ru|wav/ru-05-ru-000002467.wav|||Норвегия намерена выступать активным партнером в этом процессе.|
-014473|06-ru|ru|wav/ru-06-ru-000004625.wav|||Этот аппарат, как правило, имел свои особенности работы.|
-011901|02-ru|ru|wav/ru-02-ru-000000548.wav|||Мы также выражаем признательность Специальному представителю Генерального секретаря Огастину Махиге за его сегодняшний брифинг.|
-011361|01-ru|ru|wav/ru-01-ru-000000007.wav|||Нет, не поняла Женя.|
-012189|02-ru|ru|wav/ru-02-ru-000000836.wav|||Чтобы реанимировать данный орган, Ирландия твердо выступает за ряд шагов.|
-012221|02-ru|ru|wav/ru-02-ru-000000868.wav|||Исходя из этого и был создан алгоритм распознавания угрозы жизни.|
-012283|02-ru|ru|wav/ru-02-ru-000000930.wav|||Международному сообществу срочно необходимо пресечь это насилие.|
-011886|02-ru|ru|wav/ru-02-ru-000000533.wav|||Пятьдесят три миллиарда восемьсот восемьдесят два миллиона триста пятьдесят девять тысяч шестьсот восемнадцать.|
-012795|02-ru|ru|wav/ru-02-ru-000001442.wav|||Холщовая рубаха его была бедна.|
-014205|05-ru|ru|wav/ru-05-ru-000003028.wav|||В этом музее выставлялась настоящая средневековая катапульта|
-014200|05-ru|ru|wav/ru-05-ru-000003023.wav|||Лево руля на борт! громко скомандовала Женя и крепче налегла на тяжелое колесо.|
-014609|06-ru|ru|wav/ru-06-ru-000004761.wav|||А заходите справа! закричал из-за ограды Квакин.|
-014620|06-ru|ru|wav/ru-06-ru-000004772.wav|||И, махнув рукой, она не сказала сестре больше ни слова.|
-013616|04-ru|ru|wav/ru-04-ru-000002268.wav|||Да вы и сами, господин Председатель, касались этого в своем вводном слове.|
-011746|02-ru|ru|wav/ru-02-ru-000000393.wav|||Вы кого в вашей опере играете? присаживаясь на траву, спросила Ольга.|
-012284|02-ru|ru|wav/ru-02-ru-000000931.wav|||Но, Оля, пробормотала Женя, что с тобою?|
-013054|02-ru|ru|wav/ru-02-ru-000001701.wav|||Я не люблю овощи.|
-013466|04-ru|ru|wav/ru-04-ru-000002118.wav|||Принцип консенсуса сопряжен с преимуществами для многосторонних переговоров.|
-013767|04-ru|ru|wav/ru-04-ru-000002419.wav|||Слово имеет представитель Финляндии.|
-013879|05-ru|ru|wav/ru-05-ru-000002531.wav|||Мы считаем эти договоры жизненно важными для достижения целей этих проектов резолюций.|
-012958|02-ru|ru|wav/ru-02-ru-000001605.wav|||Веревочные провода над крышей задрожали.|
-013661|04-ru|ru|wav/ru-04-ru-000002313.wav|||Учитывая загруженную программу работы Совета, я сокращу свое выступление.|
-013499|04-ru|ru|wav/ru-04-ru-000002151.wav|||Широченные штаны - в заплатках.|
-011675|02-ru|ru|wav/ru-02-ru-000000322.wav|||Это был мой первый опыт езды с левосторонним движением.|
-012999|02-ru|ru|wav/ru-02-ru-000001646.wav|||Заниматься ликвидацией негативных последствий ливийского конфликта должна не только Африка.|
-012571|02-ru|ru|wav/ru-02-ru-000001218.wav|||Благодарю представителя Турции за ее заявление.|
-011647|02-ru|ru|wav/ru-02-ru-000000294.wav|||Вторым аспектом, который я хотел бы высветить, является трактовка запасов.|
-013314|03-ru|ru|wav/ru-03-ru-000001961.wav|||Руслан еще не дописал свой реферат.|
-013404|03-ru|ru|wav/ru-03-ru-000002051.wav|||Россия готова и дальше продвигаться по пути проверяемых и необратимых сокращений ядерного оружия.|
-013138|02-ru|ru|wav/ru-02-ru-000001785.wav|||Недавно мы подошли к этому очень близко.|
-011607|02-ru|ru|wav/ru-02-ru-000000254.wav|||В этой связи они также подчеркивали необходимость соблюдения международных обязательств.|
-012827|02-ru|ru|wav/ru-02-ru-000001474.wav|||Лед такой холодный, что от него идёт пар.|
-012654|02-ru|ru|wav/ru-02-ru-000001301.wav|||Он всё уже это знал и изучил.|
-011908|02-ru|ru|wav/ru-02-ru-000000555.wav|||Международное сообщество располагает значительными, но вместе с тем ограниченными возможностями.|
-011835|02-ru|ru|wav/ru-02-ru-000000482.wav|||Здесь, в Совете Безопасности, нашего особого внимания сегодня требуют три ситуации.|
-011437|01-ru|ru|wav/ru-01-ru-000000084.wav|||Несмотря на все это, политический переход в Гаити происходит не без трудностей.|
-012024|02-ru|ru|wav/ru-02-ru-000000671.wav|||Он был необычным человеком, который присматривался к западному опыту.|
-012921|02-ru|ru|wav/ru-02-ru-000001568.wav|||Это вполне понятно и заслуживает уважения.|
-012085|02-ru|ru|wav/ru-02-ru-000000732.wav|||Африку связывают с Палестиной тесные исторические узы.|
-012759|02-ru|ru|wav/ru-02-ru-000001406.wav|||Работа над предлагаемой конвенцией должна строиться на недискриминационной основе.|
-012131|02-ru|ru|wav/ru-02-ru-000000778.wav|||К числу важнейших задач относятся завершение разработки новой конституции и созыв учредительного собрания.|
-013981|05-ru|ru|wav/ru-05-ru-000002633.wav|||Многие на Западе опасаются усиления политического Ислама.|
-012398|02-ru|ru|wav/ru-02-ru-000001045.wav|||Оборонительная позиция по Фолклендским островам остается неизменной на протяжении многих лет.|
-014077|05-ru|ru|wav/ru-05-ru-000002729.wav|||Этот вопрос должен решаться в ходе переговоров.|
-012851|02-ru|ru|wav/ru-02-ru-000001498.wav|||Помню, батюшка, очень хорошо помню, что вы были.|
-012359|02-ru|ru|wav/ru-02-ru-000001006.wav|||Как правило, подобные сканеры тяжелы, громоздки и дороги.|
-012679|02-ru|ru|wav/ru-02-ru-000001326.wav|||Со стороны Совета было бы упущением не использовать такие инструменты, когда того требуют обстоятельства.|
-012628|02-ru|ru|wav/ru-02-ru-000001275.wav|||В частности, мы очень обеспокоены последствиями продолжающегося насилия в отношении гражданского населения этих районов.|
-012760|02-ru|ru|wav/ru-02-ru-000001407.wav|||Не задавай глупых вопросов!|
-011385|01-ru|ru|wav/ru-01-ru-000000031.wav|||Мы поддерживаем проект заявления для прессы, представленный представителем Франции.|
-012321|02-ru|ru|wav/ru-02-ru-000000968.wav|||Работу над диссертацией, правда, из-за этого пришлось на время отложить.|
-013965|05-ru|ru|wav/ru-05-ru-000002617.wav|||Наша страна полностью поддерживает деятельность вышеупомянутых организаций.|
-012463|02-ru|ru|wav/ru-02-ru-000001110.wav|||Гуманитарная ситуация может подорвать прогресс, достигнутый на политическом направлении и в области безопасности.|
-013143|02-ru|ru|wav/ru-02-ru-000001790.wav|||В нем учитываются как задачи переходного процесса, так и сравнительные преимущества Организации Объединенных Наций.|
-013454|04-ru|ru|wav/ru-04-ru-000002106.wav|||Этот огнетушитель тушит порошком.|
-014477|06-ru|ru|wav/ru-06-ru-000004629.wav|||Сокращение донорского финансирования тоже отрицательно сказывается на усилиях по восстановлению.|
-012875|02-ru|ru|wav/ru-02-ru-000001522.wav|||Народ Йемена заслуживает нашей полной поддержки.|
-012108|02-ru|ru|wav/ru-02-ru-000000755.wav|||Только у колодца перепуганный Тимур остановился.|
-014417|05-ru|ru|wav/ru-05-ru-000003240.wav|||В ходе процесса переговоров ряд делегаций высказал полезные предложения.|
-011452|01-ru|ru|wav/ru-01-ru-000000099.wav|||Но сознаваться никто не хотел.|
-013506|04-ru|ru|wav/ru-04-ru-000002158.wav|||Ты оставил мне на столе записку?|
-013911|05-ru|ru|wav/ru-05-ru-000002563.wav|||Мы собрались здесь сегодня, чтобы отпраздновать Международный день солидарности с палестинским народом.|
-012069|02-ru|ru|wav/ru-02-ru-000000716.wav|||Нам всем лучше подходить к этой теме чуть менее эмоционально.|
-012289|02-ru|ru|wav/ru-02-ru-000000936.wav|||Мы подтверждаем свою полную и безусловную поддержку всех трех устоев Договора о нераспространении.|
-012363|02-ru|ru|wav/ru-02-ru-000001010.wav|||Краснодар - прекрасное место.|
-014467|06-ru|ru|wav/ru-06-ru-000004619.wav|||Первый раунд дискуссий по этой проблеме, в соответствии с согласованным графиком мероприятий, уже состоялся.|
-014237|05-ru|ru|wav/ru-05-ru-000003060.wav|||Процесс должен иметь шанс для того, чтобы развиваться и принести плоды.|
-012205|02-ru|ru|wav/ru-02-ru-000000852.wav|||Однако мы отвергаем содержащиеся в докладе необоснованные утверждения и обвинения в адрес Сирии.|
-013556|04-ru|ru|wav/ru-04-ru-000002208.wav|||Конечно, одни только односторонние действия не дают результатов, которых ожидает и требует мир.|
-011555|02-ru|ru|wav/ru-02-ru-000000202.wav|||Бесспорно, соответствующие проблемы носят сложный характер.|
-011442|01-ru|ru|wav/ru-01-ru-000000089.wav|||Эти процессы лишь отвечают интересам граждан.|
-011882|02-ru|ru|wav/ru-02-ru-000000529.wav|||Благодарю представителя Пакистана за его заявление и за его добрые слова.|
-012577|02-ru|ru|wav/ru-02-ru-000001224.wav|||Слово имеет представитель Индонезии.|
-012720|02-ru|ru|wav/ru-02-ru-000001367.wav|||Мы приветствуем его принятие.|
-013362|03-ru|ru|wav/ru-03-ru-000002009.wav|||Дом красноармейца Павла Гурьева.|
-012182|02-ru|ru|wav/ru-02-ru-000000829.wav|||Они - лидеры завтрашнего дня.|
-014315|05-ru|ru|wav/ru-05-ru-000003138.wav|||Мы глубоко сожалеем, что такая возможность была упущена.|
-012072|02-ru|ru|wav/ru-02-ru-000000719.wav|||Однако мы должны двигаться вперед в деле укрепления архитектуры защиты, проявляя осторожность и решимость.|
-014196|05-ru|ru|wav/ru-05-ru-000003019.wav|||Самое главное, Франция демонтировала свои производственные установки.|
-013521|04-ru|ru|wav/ru-04-ru-000002173.wav|||В предстоящие недели мы намерены направить большее число сотрудников из Найроби в Сомали.|
-012964|02-ru|ru|wav/ru-02-ru-000001611.wav|||Формирование правительства также приведет к решению проблем безопасности.|
-007471|09-fr|fr|wav/fr-09-fr-000001613.wav|||C'est pas dramatique.|
-007944|11-fr|fr|wav/fr-11-fr-000002092.wav|||La parole est à Monsieur Pascal Cherki, pour soutenir l'amendement numéro deux cent trente-deux.|
-009283|21-fr|fr|wav/fr-21-fr-000003499.wav|||Nous serons, là encore, simplement informés par un rapport sans pouvoir en discuter.|
-006048|04-fr|fr|wav/fr-04-fr-000000173.wav|||L'estafette n'avait pas le loisir de s'attarder.|
-007908|11-fr|fr|wav/fr-11-fr-000002056.wav|||Vous m'avez dit d’aller acheter la Patrie.|
-008241|15-fr|fr|wav/fr-15-fr-000002456.wav|||Route de la Croix de Faslay à Luant|
-006150|04-fr|fr|wav/fr-04-fr-000000275.wav|||Des suzerains aplatissent des ténors.|
-008352|16-fr|fr|wav/fr-16-fr-000002567.wav|||huit chemin de Vilert, soixante-dix-neuf mille trois cent soixante-dix Thorigné|
-008061|11-fr|fr|wav/fr-11-fr-000002209.wav|||Croyez-vous que Monsieur Caboussat soit renommé?|
-006837|05-fr|fr|wav/fr-05-fr-000000978.wav|||Un éléphant.|
-007670|10-fr|fr|wav/fr-10-fr-000001812.wav|||Rue du Clos Méry au numéro dix-huit|
-008107|13-fr|fr|wav/fr-13-fr-000002314.wav|||Ils mènent tous deux joyeuse vie, dites-vous.|
-008628|18-fr|fr|wav/fr-18-fr-000002844.wav|||La cathédrale de Sens est la première cathédrale gothique de France.|
-007322|08-fr|fr|wav/fr-08-fr-000001464.wav|||Cette lumière ajoutait à l'écarlate du drapeau je ne sais quelle pourpre terrible.|
-007556|09-fr|fr|wav/fr-09-fr-000001698.wav|||Ne le voyez-vous pas?|
-008198|14-fr|fr|wav/fr-14-fr-000002413.wav|||Sept heures et demie! je vais me recoucher.|
-005882|01-fr|fr|wav/fr-01-fr-000000006.wav|||Quel diplôme avez-vous?|
-008723|19-fr|fr|wav/fr-19-fr-000002939.wav|||Il est épouvantable d'entendre de telles choses.|
-006730|04-fr|fr|wav/fr-04-fr-000000861.wav|||Ces fautes d'orthographe sont vraiment énervantes.|
-006864|05-fr|fr|wav/fr-05-fr-000001005.wav|||De leur faute.|
-007225|08-fr|fr|wav/fr-08-fr-000001367.wav|||Chemin de Charluat au numéro cent quatorze|
-007721|11-fr|fr|wav/fr-11-fr-000001869.wav|||Ces dames vont partir?|
-007154|07-fr|fr|wav/fr-07-fr-000001296.wav|||douze rue René Vauthier, quatre-vingt-douze, deux cent soixante à Fontenay-aux-Roses|
-008841|19-fr|fr|wav/fr-19-fr-000003057.wav|||vingt-trois rUE AMIR RIDJALI, quatre-vingt-dix-sept mille six cent cinquante M'Tsangamouji|
-008860|19-fr|fr|wav/fr-19-fr-000003076.wav|||Voyons|
-007777|11-fr|fr|wav/fr-11-fr-000001925.wav|||Pour des business angels, un placement à deux ans, c'est déjà assez long.|
-009429|21-fr|fr|wav/fr-21-fr-000003645.wav|||sud Monsieur lui a accordé la décoration de la légion d'honneur.|
-007817|11-fr|fr|wav/fr-11-fr-000001965.wav|||Mais la Gloriette aussi était sage.|
-006632|04-fr|fr|wav/fr-04-fr-000000763.wav|||De même que la porte est une entrée, ou une sortie.|
-007736|11-fr|fr|wav/fr-11-fr-000001884.wav|||soixante et un rue Armand Sully Prudhomme, trente-trois, neuf cent quatre-vingts à Audenge|
-009345|21-fr|fr|wav/fr-21-fr-000003561.wav|||Au bout de dix minutes, Lafare rentra avec le gouverneur.|
-006028|04-fr|fr|wav/fr-04-fr-000000153.wav|||Quelle explication positive avez-vous engagée?|
-007071|07-fr|fr|wav/fr-07-fr-000001213.wav|||Elle glissa sur le prétendant, sur le faux Valois, tout au plus quelques mots.|
-006315|04-fr|fr|wav/fr-04-fr-000000444.wav|||Certaines des meilleures candidates se mettent à foudroyer la matière destituée.|
-007198|07-fr|fr|wav/fr-07-fr-000001340.wav|||L'arbre est aussi haut que ça maintenant.|
-008165|14-fr|fr|wav/fr-14-fr-000002380.wav|||Prenez, prenez tout! MOTUS.|
-009225|21-fr|fr|wav/fr-21-fr-000003441.wav|||Les Mêmes, moins Paulette John, haussant les épaules. - Isse! ce navet!|
-006175|04-fr|fr|wav/fr-04-fr-000000300.wav|||Ha je comprends, c'est une bonne raison.|
-006991|06-fr|fr|wav/fr-06-fr-000001133.wav|||Notre appel au bon sens a donc été entendu.|
-009391|21-fr|fr|wav/fr-21-fr-000003607.wav|||Mais Séguin avait encore un autre projet.|
-006454|04-fr|fr|wav/fr-04-fr-000000584.wav|||Dix ou douze fois, l'acclamation unanime ébranla les vitres, retentit dans les entrailles.|
-007822|11-fr|fr|wav/fr-11-fr-000001970.wav|||Très fort aux dominos.|
-009230|21-fr|fr|wav/fr-21-fr-000003446.wav|||Je le répète: une étude approfondie est nécessaire avant toute décision en ce sens.|
-006284|04-fr|fr|wav/fr-04-fr-000000413.wav|||A droite, le café Lemblin exécutait des salves.|
-009321|21-fr|fr|wav/fr-21-fr-000003537.wav|||Du coup le gamin avait pris l'habitude de venir faire ses devoirs chez Lydie.|
-009006|20-fr|fr|wav/fr-20-fr-000003222.wav|||sept rue Louis Proust, vingt-neuf mille quatre cents Landivisiau|
-006841|05-fr|fr|wav/fr-05-fr-000000982.wav|||Elle exprima leur idée secrète.|
-006551|04-fr|fr|wav/fr-04-fr-000000681.wav|||Alors Omer aperçut dans le groupe qu'ils démasquaient Elvire et Dolorès.|
-009012|20-fr|fr|wav/fr-20-fr-000003228.wav|||Je souhaite qu'il reçoive l’approbation de votre assemblée.|
-007247|08-fr|fr|wav/fr-08-fr-000001389.wav|||Arrête! Tu vas tout casser!|
-008962|20-fr|fr|wav/fr-20-fr-000003178.wav|||Ici, rien de cela.|
-009272|21-fr|fr|wav/fr-21-fr-000003488.wav|||J'en ai laissé cinq morceaux et je n’en retrouve plus que quatre!|
-008986|20-fr|fr|wav/fr-20-fr-000003202.wav|||Rue du Champ Guigneux, trente-cinq mille huit cents Saint-Briac-sur-Mer|
-006470|04-fr|fr|wav/fr-04-fr-000000600.wav|||Pourquoi celle du dessus aurait la primauté?|
-006976|06-fr|fr|wav/fr-06-fr-000001118.wav|||Sentier des Grès, quarante-cinq mille cent trente Huisseau-sur-Mauves|
-008466|16-fr|fr|wav/fr-16-fr-000002681.wav|||Que diriez-vous de díner avec moi?|
-009115|21-fr|fr|wav/fr-21-fr-000003331.wav|||Pourquoi pas?|
-007262|08-fr|fr|wav/fr-08-fr-000001404.wav|||Elle larmoyait et se lamentait.|
-009393|21-fr|fr|wav/fr-21-fr-000003609.wav|||Rue de la Vigne à la Croix au numéro neuf|
-009578|25-fr|fr|wav/fr-25-fr-000003953.wav|||vingt rue Remondet Lacroix|
-008248|15-fr|fr|wav/fr-15-fr-000002463.wav|||huit rue des Goemoniers, vingt-deux, six cent dix, Pleubian|
-006243|04-fr|fr|wav/fr-04-fr-000000372.wav|||Rambourg supporterait encore moins l'avanie que le déboire.|
-009068|20-fr|fr|wav/fr-20-fr-000003284.wav|||Horrifiés, courroucés, ils jetaient à l'ennemi des regards farouches.|
-007559|09-fr|fr|wav/fr-09-fr-000001701.wav|||Elles ont disparu aussi.|
-008138|13-fr|fr|wav/fr-13-fr-000002345.wav|||La signature royale y était pour mille francs.|
-007733|11-fr|fr|wav/fr-11-fr-000001881.wav|||Ce ne sont que des mensonges!|
-006074|04-fr|fr|wav/fr-04-fr-000000199.wav|||A la Haute Vente des carbonari, ils s'étaient appréciés, sans doute.|
-009019|20-fr|fr|wav/fr-20-fr-000003235.wav|||Rue René Lisambert, Fagnières|
-009440|22-fr|fr|wav/fr-22-fr-000003656.wav|||Ernest, notre aíné.|
-008646|18-fr|fr|wav/fr-18-fr-000002862.wav|||Merci beaucoup.|
-006620|04-fr|fr|wav/fr-04-fr-000000751.wav|||Casimir Perier n'en veut pas!|
-009675|26-fr|fr|wav/fr-26-fr-000004050.wav|||Disons que vous serez encore plus liée demain.|
-009221|21-fr|fr|wav/fr-21-fr-000003437.wav|||Il y a deux piliers, le public et le privé.|
-009213|21-fr|fr|wav/fr-21-fr-000003429.wav|||J'espère que vous serez d’accord pour le soutenir.|
-007047|07-fr|fr|wav/fr-07-fr-000001189.wav|||Qu'est-ce que vous prendrez?|
-007478|09-fr|fr|wav/fr-09-fr-000001620.wav|||Les trublions renoncent à fantasmer.|
-007748|11-fr|fr|wav/fr-11-fr-000001896.wav|||Vous dites? . ROXANE.|
-009088|20-fr|fr|wav/fr-20-fr-000003304.wav|||deux cent trente-sept rue Gouas, soixante-dix-sept, huit cent soixante à Couilly-Pont-aux-Dames|
-007235|08-fr|fr|wav/fr-08-fr-000001377.wav|||Elle est debout.|
-008546|17-fr|fr|wav/fr-17-fr-000002761.wav|||J'ai obtenu son expulsion du propriétaire.|
-007016|06-fr|fr|wav/fr-06-fr-000001158.wav|||Un moment, le visiteur chercha des prétextes pour se retirer.|
-008992|20-fr|fr|wav/fr-20-fr-000003208.wav|||Rue du Docteur Delafontaine, quatre-vingt-treize, deux cents Saint-Denis|
-006634|04-fr|fr|wav/fr-04-fr-000000765.wav|||Elle l'embrassa, dissimulant un peu d'émotion sous des grimaces.|
-006225|04-fr|fr|wav/fr-04-fr-000000354.wav|||Des organisatrices éclaircissaient leurs robots.|
-006494|04-fr|fr|wav/fr-04-fr-000000624.wav|||Une geisha consternée souscrit aux chinoises.|
-008824|19-fr|fr|wav/fr-19-fr-000003040.wav|||vingt-deux lotissement Miroir Sud, vingt-cinq, trois cent soixante-dix, Les Hôpitaux-Neufs|
-006993|06-fr|fr|wav/fr-06-fr-000001135.wav|||Route de Verlhaguet, quatre-vingt-deux, deux cent quatre-vingt-dix Montbeton|
-009198|21-fr|fr|wav/fr-21-fr-000003414.wav|||Puis, doucement, ils refermèrent la porte, ils s'en allèrent.|
-009045|20-fr|fr|wav/fr-20-fr-000003261.wav|||trente-trois BIS rue du Colonel Rabier, cinquante-huit mille deux cents Cosne-Cours-sur-Loire|
-008617|18-fr|fr|wav/fr-18-fr-000002833.wav|||Vous goûteriez encore ces délices sans nom.|
-006870|05-fr|fr|wav/fr-05-fr-000001011.wav|||Elle manifeste un ancrage de préceptes moraux trop fort|
-008414|16-fr|fr|wav/fr-16-fr-000002629.wav|||douze route de Molaine, quarante-cinq, cinq cent dix, Tigy|
-009350|21-fr|fr|wav/fr-21-fr-000003566.wav|||Les Bavarois les poursuivirent l'épée dans les reins, et entrèrent pêle-mêle avec eux dans Salzbourg.|
-006868|05-fr|fr|wav/fr-05-fr-000001009.wav|||Fit-il, l'admirant du geste.|
-007400|09-fr|fr|wav/fr-09-fr-000001542.wav|||Le banquier, fréquemment, assistait aux réceptions du Palais-Royal.|
-009428|21-fr|fr|wav/fr-21-fr-000003644.wav|||Celle-ci peut permettre de réunir des personnes éparpillées.|
-008337|16-fr|fr|wav/fr-16-fr-000002552.wav|||Ce serait bien la peine de l'avoir laissé reposer pour le secouer maintenant.|
-006966|06-fr|fr|wav/fr-06-fr-000001108.wav|||Il fut tout à la fois dictateur et inquisiteur, sultan de la montagne.|
-008350|16-fr|fr|wav/fr-16-fr-000002565.wav|||Il faut y penser notamment pour les jeunes, car sinon ils partent en Angleterre.|
-006826|05-fr|fr|wav/fr-05-fr-000000967.wav|||Elle tranquillisa sa mère en lui téléphonant.|
-008794|19-fr|fr|wav/fr-19-fr-000003010.wav|||On me les a demandées pour un ou deux jours.|
-007703|11-fr|fr|wav/fr-11-fr-000001851.wav|||Il me plaít beaucoup, ce garçon. et s'il est d’une bonne famille.|
-009406|21-fr|fr|wav/fr-21-fr-000003622.wav|||On amène La Chique, qui était au violon.|
-007397|09-fr|fr|wav/fr-09-fr-000001539.wav|||Presque en même temps, l'oreille d'Omer fut rudement pincée.|
-009222|21-fr|fr|wav/fr-21-fr-000003438.wav|||J'invite nos collègues à y prendre garde et à se référer à la jurisprudence.|
-008262|15-fr|fr|wav/fr-15-fr-000002477.wav|||Vous savez d'où ils viennent? m'a-t-il dit.|
-006166|04-fr|fr|wav/fr-04-fr-000000291.wav|||Des bandits annonceront la lance à Jean Jaurès.|
-009176|21-fr|fr|wav/fr-21-fr-000003392.wav|||Une fois la Mini repartie, les deux vieux respirèrent un bon coup.|
-008215|14-fr|fr|wav/fr-14-fr-000002430.wav|||Un sabre lardait de petites épaules.|
-008415|16-fr|fr|wav/fr-16-fr-000002630.wav|||Nous avons droit de prendre intérêt aux catastrophes de notre temps.|
-009670|26-fr|fr|wav/fr-26-fr-000004045.wav|||De ma faute.|
-007771|11-fr|fr|wav/fr-11-fr-000001919.wav|||Rue de Beaupeyras, Clermont-Ferrand|
-009042|20-fr|fr|wav/fr-20-fr-000003258.wav|||Le début du mois d'août.|
-008035|11-fr|fr|wav/fr-11-fr-000002183.wav|||Puis, se frappant le front: Mais il y a des détails dans les journaux, ajouta-t-elle.|
-006753|04-fr|fr|wav/fr-04-fr-000000884.wav|||Je n'ai profité du spectacle que durant deux à trois secondes.|
-006696|04-fr|fr|wav/fr-04-fr-000000827.wav|||Enjolras, Grantaire filaient, les yeux fixes, les mèches au vent.|
-006736|04-fr|fr|wav/fr-04-fr-000000867.wav|||Tu ponds un cornet cohérent par la faute de la Lorelei.|
-006600|04-fr|fr|wav/fr-04-fr-000000730.wav|||Vous êtes une sainte si ardente!|
-007486|09-fr|fr|wav/fr-09-fr-000001628.wav|||Le eSport c'est l'avenir!|
-007761|11-fr|fr|wav/fr-11-fr-000001909.wav|||C'est très bien, et je pense que cela rassurera nos collègues d’en face.|
-006765|04-fr|fr|wav/fr-04-fr-000000896.wav|||Qui a fini le lait?|
-007248|08-fr|fr|wav/fr-08-fr-000001390.wav|||Retrousse ta soutane, ma fille.|
-009030|20-fr|fr|wav/fr-20-fr-000003246.wav|||Elle participe pourtant à cette réflexion.|
-008902|20-fr|fr|wav/fr-20-fr-000003118.wav|||Ce n'est qu'arbres et fleurs, moissons, hommes.|
-006279|04-fr|fr|wav/fr-04-fr-000000408.wav|||Qu'a-t-elle gardé de cela.|
-006575|04-fr|fr|wav/fr-04-fr-000000705.wav|||Will Smith fait semblant de provenir d'une chose.|
-008100|13-fr|fr|wav/fr-13-fr-000002307.wav|||Prenant sa montre sur la cheminée.|
-008445|16-fr|fr|wav/fr-16-fr-000002660.wav|||Comment ça se dit en français?|
-009419|21-fr|fr|wav/fr-21-fr-000003635.wav|||D'abord, j’ai trouvé un excellent moyen.|
-008120|13-fr|fr|wav/fr-13-fr-000002327.wav|||Rue d'Esse, soixante-dix-sept mille cinq cent quinze Saint-Augustin|
-007061|07-fr|fr|wav/fr-07-fr-000001203.wav|||On était même vexé de ne pas te voir.|
-009175|21-fr|fr|wav/fr-21-fr-000003391.wav|||Ton oncle a refusé de le voir. et il a bien fait.|
-009150|21-fr|fr|wav/fr-21-fr-000003366.wav|||Elle reprit: Il était perdu pour moi.|
-006348|04-fr|fr|wav/fr-04-fr-000000478.wav|||La partie fut perdue trop vite.|
-009512|25-fr|fr|wav/fr-25-fr-000003887.wav|||Vu de Marseille? Pas la même langue? Quelle langue?|
-006922|06-fr|fr|wav/fr-06-fr-000001064.wav|||Celle-ci est même demandeuse, puisqu'elle souhaite éviter les contentieux ultérieurs.|
-009173|21-fr|fr|wav/fr-21-fr-000003389.wav|||Marthe à part. - Oh?|
-008641|18-fr|fr|wav/fr-18-fr-000002857.wav|||Ton père est grand.|
-008809|19-fr|fr|wav/fr-19-fr-000003025.wav|||Ne te fatigue pas.|
-007067|07-fr|fr|wav/fr-07-fr-000001209.wav|||sept rue Archivolto, vingt mille cent soixante-neuf Bonifacio|
-007522|09-fr|fr|wav/fr-09-fr-000001664.wav|||Mais il me semble alors!|
-007781|11-fr|fr|wav/fr-11-fr-000001929.wav|||C'est ce que nous sommes en train de faire.|
-009001|20-fr|fr|wav/fr-20-fr-000003217.wav|||La présence d'un étranger dans ma maison. ça me trouble. ça m’anéantit.|
-009023|20-fr|fr|wav/fr-20-fr-000003239.wav|||Pour respecter cette disposition, les documents administratifs communicables occultent les données personnelles.|
-007870|11-fr|fr|wav/fr-11-fr-000002018.wav|||C'est que . balbutia Médor.|
-007892|11-fr|fr|wav/fr-11-fr-000002040.wav|||Il faut vraiment un débat sur ce sujet.|
-006856|05-fr|fr|wav/fr-05-fr-000000997.wav|||Je suis en train de manger.|
-009119|21-fr|fr|wav/fr-21-fr-000003335.wav|||quinze avenue Boutroux, soixante-quinze, zéro treize, Paris|
-009304|21-fr|fr|wav/fr-21-fr-000003520.wav|||Ils n'écoutent la radio que de temps en temps.|
-009293|21-fr|fr|wav/fr-21-fr-000003509.wav|||La parole est à Madame Blandine Brocard, pour soutenir l'amendement numéro cinq cent quarante-sept.|
-006211|04-fr|fr|wav/fr-04-fr-000000340.wav|||Il envahit les boutiques dont les commis retirèrent les volets.|
-006325|04-fr|fr|wav/fr-04-fr-000000455.wav|||Leurs boucles volèrent sur leurs cols de velours.|
-008810|19-fr|fr|wav/fr-19-fr-000003026.wav|||Elle va me taper.|
-008386|16-fr|fr|wav/fr-16-fr-000002601.wav|||Rue du Champ Beaumont, soixante et un mille Saint-Germain-du-Corbéis|
-007609|09-fr|fr|wav/fr-09-fr-000001751.wav|||Il a eu ses vapeurs.|
-008990|20-fr|fr|wav/fr-20-fr-000003206.wav|||C'est lui qui t'a aidé à fuir? demanda Carrier.|
-007698|10-fr|fr|wav/fr-10-fr-000001846.wav|||Hier, j'ai échoué dans ma baignoire.|
-008587|18-fr|fr|wav/fr-18-fr-000002803.wav|||Tu le sais, non? Commande-moi des huítres.|
-007021|06-fr|fr|wav/fr-06-fr-000001163.wav|||Or il est très important d'en parler.|
-009586|25-fr|fr|wav/fr-25-fr-000003961.wav|||C'est la réflexion que fait Guillaume Grimm (trois, p.|
-007920|11-fr|fr|wav/fr-11-fr-000002068.wav|||La commission et le Gouvernement ne m'ont pas répondu sur le fond.|
-007744|11-fr|fr|wav/fr-11-fr-000001892.wav|||Vous me raccompagnerez chez moi?|
-008476|16-fr|fr|wav/fr-16-fr-000002691.wav|||Comme j'en rirais! Mais, au moment le plus beau, tout s'arrêta.|
-005884|01-fr|fr|wav/fr-01-fr-000000008.wav|||Fouillons le pays, dit-il.|
-007758|11-fr|fr|wav/fr-11-fr-000001906.wav|||J'ai du pouvoir.|
-007526|09-fr|fr|wav/fr-09-fr-000001668.wav|||C'est trop compliqué pour moi.|
-008083|11-fr|fr|wav/fr-11-fr-000002231.wav|||Rue Marie Laurent au numéro sept|
-008821|19-fr|fr|wav/fr-19-fr-000003037.wav|||Il approche enfin, ce moment tant désiré. ce moment.|
-009256|21-fr|fr|wav/fr-21-fr-000003472.wav|||Ne vous en faites pas. J'ai le même problème.|
-008982|20-fr|fr|wav/fr-20-fr-000003198.wav|||Sur un geste pudique de Maltenu. . parfaitement!|
-009187|21-fr|fr|wav/fr-21-fr-000003403.wav|||Nous vous le confirmons donc: si ce texte est voté, nous saisirons le Conseil constitutionnel.|
-006274|04-fr|fr|wav/fr-04-fr-000000403.wav|||Mais tu as plein de choses à faire.|
-006581|04-fr|fr|wav/fr-04-fr-000000711.wav|||Il est vrai que le Morvan est aussi le pays des sources vives.|
-009091|20-fr|fr|wav/fr-20-fr-000003307.wav|||Qui est cette jeune fille?|
-006131|04-fr|fr|wav/fr-04-fr-000000256.wav|||C'est ce que j’ai fait.|
-008944|20-fr|fr|wav/fr-20-fr-000003160.wav|||Ces autorisations permettent de se rendre aux examens.|
-007630|10-fr|fr|wav/fr-10-fr-000001772.wav|||Route de Riom, Manzat|
-009575|25-fr|fr|wav/fr-25-fr-000003950.wav|||Je vais à table.|
-008335|16-fr|fr|wav/fr-16-fr-000002550.wav|||C'est égal, le trait avait porté, tout Paris s'émut.|
-006879|05-fr|fr|wav/fr-05-fr-000001021.wav|||Dans mes mains.|
-009566|25-fr|fr|wav/fr-25-fr-000003941.wav|||Le jaune.|
-008586|18-fr|fr|wav/fr-18-fr-000002802.wav|||Lui, il a été aimé.|
-006122|04-fr|fr|wav/fr-04-fr-000000247.wav|||Deux petites oreilles.|
-007012|06-fr|fr|wav/fr-06-fr-000001154.wav|||Elle l'embrassa, dissimulant un peu d'émotion sous des grimaces.|
-009152|21-fr|fr|wav/fr-21-fr-000003368.wav|||Je peux vous en dire autant.|
-007607|09-fr|fr|wav/fr-09-fr-000001749.wav|||Tu risques de payer quelqu'un un fric monstre pour t'aider.|
-008081|11-fr|fr|wav/fr-11-fr-000002229.wav|||Il y a donc là un vice de forme.|
-009015|20-fr|fr|wav/fr-20-fr-000003231.wav|||Je pense que l'amendement numéro cinq cent quatre-vingt-quatre rectifié devrait viser l’article L.|
-009295|21-fr|fr|wav/fr-21-fr-000003511.wav|||Les amendements numéros cent trente-neuf et cent soixante-six sont identiques.|
-007231|08-fr|fr|wav/fr-08-fr-000001373.wav|||neuf chemin de la Gourgue, zéro neuf, quatre cents Arignac|
-009980|01-nl|nl|wav/nl-01-nl-000000304.wav|||De schilders hebben jaren gewerkt aan dat drieluik.|
-011320|12-nl|nl|wav/nl-12-nl-000001645.wav|||Onze verre voorouders waren holbewoners.|
-010452|04-nl|nl|wav/nl-04-nl-000000776.wav|||Je slaat de nagel op de kop.|
-010650|06-nl|nl|wav/nl-06-nl-000000974.wav|||De keus is aan jou, kies je voor een vakantie in Indonesië of Thailand.|
-009917|01-nl|nl|wav/nl-01-nl-000000241.wav|||De zee kon soms ruw zijn.|
-011195|10-nl|nl|wav/nl-10-nl-000001520.wav|||Het beschermen van de bij is de laatste jaren een prioriteit geworden.|
-009805|01-nl|nl|wav/nl-01-nl-000000129.wav|||Is het volgende week Moederdag?|
-010539|04-nl|nl|wav/nl-04-nl-000000863.wav|||De koning van dit land heeft drie kinderen.|
-011267|11-nl|nl|wav/nl-11-nl-000001592.wav|||Veel mensen vinden het leuk om te reageren op fora.|
-009740|01-nl|nl|wav/nl-01-nl-000000064.wav|||Het vriest dat het kraakt.|
-009923|01-nl|nl|wav/nl-01-nl-000000247.wav|||Volgens de islam is Jezus een profeet terwijl het christendom hem als de zoon van God beschouwt.|
-010117|03-nl|nl|wav/nl-03-nl-000000441.wav|||Heb jij ooit yoga gedaan?|
-010666|06-nl|nl|wav/nl-06-nl-000000990.wav|||Ik heb twee gaten in mijn sokken.|
-010465|04-nl|nl|wav/nl-04-nl-000000789.wav|||Af en toe zit er best ook een zin tussen met wat achtergrondlawaai van bijvoorbeeld een wasmachine of een droogkast.|
-011278|11-nl|nl|wav/nl-11-nl-000001603.wav|||Welk beleg heb je op je boterhammen gedaan?|
-010097|02-nl|nl|wav/nl-02-nl-000000421.wav|||Bewust belasting ontduiken is niet toegestaan.|
-010620|06-nl|nl|wav/nl-06-nl-000000944.wav|||De bakker heeft verschillende producten bijvoorbeeld koek, taart en brood.|
-010325|03-nl|nl|wav/nl-03-nl-000000649.wav|||Bij de verbouwing van hun huis zijn er verschillende dingen beschadigd waaronder de tegels in de gang en het parket in hun woonkamer.|
-010348|03-nl|nl|wav/nl-03-nl-000000672.wav|||Het was een adembenemend uitzicht over de vallei.|
-009780|01-nl|nl|wav/nl-01-nl-000000104.wav|||Melk is goed voor elk.|
-010736|08-nl|nl|wav/nl-08-nl-000001061.wav|||Zij heeft miljoenen verdient door op de beurs te spelen.|
-011062|08-nl|nl|wav/nl-08-nl-000001387.wav|||Onder andere Italië, Luxemburg, Nederland en Denemarken behoren tot de achtentwintig Europese lidstaten.|
-010921|08-nl|nl|wav/nl-08-nl-000001246.wav|||Met dit weer heb ik meer last van astma.|
-009733|01-nl|nl|wav/nl-01-nl-000000057.wav|||Je mag dat niet zomaar veralgemenen.|
-010585|06-nl|nl|wav/nl-06-nl-000000909.wav|||Ga je wel eens kamperen met een tent?|
-010016|01-nl|nl|wav/nl-01-nl-000000340.wav|||Mijn kussen is gevuld met veren.|
-010135|03-nl|nl|wav/nl-03-nl-000000459.wav|||Hoeveel tegoed heb jij nog?|
-010311|03-nl|nl|wav/nl-03-nl-000000635.wav|||Trek het je niet aan.|
-011054|08-nl|nl|wav/nl-08-nl-000001379.wav|||Het project van twintig miljoen is klaar over een paar weken.|
-010670|06-nl|nl|wav/nl-06-nl-000000995.wav|||De vloeistof in de erlenmeyer veranderde langzaam van kleur.|
-010952|08-nl|nl|wav/nl-08-nl-000001277.wav|||De husky lag in de hondenmand.|
-011022|08-nl|nl|wav/nl-08-nl-000001347.wav|||Laat ons iets weten voor september.|
-010176|03-nl|nl|wav/nl-03-nl-000000500.wav|||De kat krabt de krollen van de trap.|
-010415|03-nl|nl|wav/nl-03-nl-000000739.wav|||Arthur en Louis keken toe hoe de leerkracht de knoop ontwarde.|
-010172|03-nl|nl|wav/nl-03-nl-000000496.wav|||Sorry, maar die bewering vind ik toch wel belachelijk.|
-010975|08-nl|nl|wav/nl-08-nl-000001300.wav|||De tampons zijn op.|
-010743|08-nl|nl|wav/nl-08-nl-000001068.wav|||Hout blijft drijven op water.|
-009899|01-nl|nl|wav/nl-01-nl-000000223.wav|||Zij draagt altijd een helm als ze op de motorfiets rijdt.|
-009723|01-nl|nl|wav/nl-01-nl-000000047.wav|||Ik had er al wat over gelezen, maar hun nieuwe album is dus nog beter dan hun vorige.|
-009972|01-nl|nl|wav/nl-01-nl-000000296.wav|||Met knikkende knieën liep ik het kantoor binnen.|
-010254|03-nl|nl|wav/nl-03-nl-000000578.wav|||Goed, beter en best zijn voorbeelden van de vergelijkende trappen.|
-010167|03-nl|nl|wav/nl-03-nl-000000491.wav|||Ik heb daar een app voor op mijn telefoon.|
-011248|11-nl|nl|wav/nl-11-nl-000001573.wav|||Het is de G van Gazelle.|
-011182|10-nl|nl|wav/nl-10-nl-000001507.wav|||Nietsvermoedend is ze in de val gelopen.|
-010881|08-nl|nl|wav/nl-08-nl-000001206.wav|||Utrecht is eigenlijk best een kleine provincie.|
-009952|01-nl|nl|wav/nl-01-nl-000000276.wav|||Heel maart zit al vol in mijn agenda.|
-011242|11-nl|nl|wav/nl-11-nl-000001567.wav|||Het is een privé club, alleen voor belangrijke mensen.|
-010403|03-nl|nl|wav/nl-03-nl-000000727.wav|||Luipaarden zijn moeilijk te zien op safari's.|
-010730|07-nl|nl|wav/nl-07-nl-000001055.wav|||We gaan graag samen naar een restaurant.|
-010678|07-nl|nl|wav/nl-07-nl-000001003.wav|||Zij heeft twee honden thuis.|
-011275|11-nl|nl|wav/nl-11-nl-000001600.wav|||Ik heb de lamp zelf in elkaar gestoken.|
-011011|08-nl|nl|wav/nl-08-nl-000001336.wav|||'s Zondags brunchen we altijd met onze ouders.|
-010066|02-nl|nl|wav/nl-02-nl-000000390.wav|||Hoe lang heb je deze blauwe plek al?|
-010512|04-nl|nl|wav/nl-04-nl-000000836.wav|||Er lag op de hele tafel toffee, het was verschrikkelijk plakkerig.|
-010851|08-nl|nl|wav/nl-08-nl-000001176.wav|||Ken jij de naam van de hoogste berg van Mars?|
-009793|01-nl|nl|wav/nl-01-nl-000000117.wav|||Religie wordt ook wel eens geloof genoemd.|
-010087|02-nl|nl|wav/nl-02-nl-000000411.wav|||Ik zal een uitzondering aanvragen.|
-009857|01-nl|nl|wav/nl-01-nl-000000181.wav|||Jan en Mieke rennen rond in de tuin.|
-011065|08-nl|nl|wav/nl-08-nl-000001390.wav|||Ik ben de perforator kwijt.|
-011164|10-nl|nl|wav/nl-10-nl-000001489.wav|||Dat is een goed nummer.|
-010477|04-nl|nl|wav/nl-04-nl-000000801.wav|||Het is acht voor zeven.|
-010022|01-nl|nl|wav/nl-01-nl-000000346.wav|||Ik heb een vlucht geboekt met Ryanair.|
-010414|03-nl|nl|wav/nl-03-nl-000000738.wav|||Mijn wachtwoord is zonder mijn toestemming veranderd.|
-010844|08-nl|nl|wav/nl-08-nl-000001169.wav|||Ik heb daar een app voor op mijn telefoon.|
-010766|08-nl|nl|wav/nl-08-nl-000001091.wav|||Ze staarde uit het raam.|
-010251|03-nl|nl|wav/nl-03-nl-000000575.wav|||Als je computer niet werkt moet je even controleren of de stekker wel in het stopcontact zit.|
-010395|03-nl|nl|wav/nl-03-nl-000000719.wav|||Ik ben het grootste deel van mei niet thuis.|
-011220|10-nl|nl|wav/nl-10-nl-000001545.wav|||Het personeel stond buiten een luchtje te scheppen.|
-011352|12-nl|nl|wav/nl-12-nl-000001677.wav|||Star wars is een duidelijk voorbeeld van sciencefiction.|
-010342|03-nl|nl|wav/nl-03-nl-000000666.wav|||Woon je in Alkmaar?|
-009713|01-nl|nl|wav/nl-01-nl-000000037.wav|||Ze is ingenieur van opleiding.|
-009832|01-nl|nl|wav/nl-01-nl-000000156.wav|||Joran, stuur je een bericht met WhatsApp om te zeggen dat we wat later gaan zijn?|
-010341|03-nl|nl|wav/nl-03-nl-000000665.wav|||Stijn begon alvast met het garen van de aubergines.|
-011149|09-nl|nl|wav/nl-09-nl-000001474.wav|||Hij was de sleutel van de voordeur verloren en dus moest de slotenmaker komen om het slot open te breken.|
-011074|09-nl|nl|wav/nl-09-nl-000001399.wav|||Je moet opletten tijdens het autorijden als je door een mistbank rijdt.|
-011124|09-nl|nl|wav/nl-09-nl-000001449.wav|||De hoeveelheid ijs op de Noordpool daalt jaar na jaar.|
-010836|08-nl|nl|wav/nl-08-nl-000001161.wav|||De voorraad stond opgeslagen in een afgelegen loods.|
-010246|03-nl|nl|wav/nl-03-nl-000000570.wav|||Eline is gaan skiën in de buurt van Geneve.|
-010878|08-nl|nl|wav/nl-08-nl-000001203.wav|||We komen langs in april.|
-011151|09-nl|nl|wav/nl-09-nl-000001476.wav|||Kan jij paardrijden?|
-009796|01-nl|nl|wav/nl-01-nl-000000120.wav|||Ze bekeek hem met argwaan.|
-010408|03-nl|nl|wav/nl-03-nl-000000732.wav|||Hij had onderdelen voor zijn oldtimer gekocht in de doe-het-zelfzaak.|
-010825|08-nl|nl|wav/nl-08-nl-000001150.wav|||Waar gaat al het afval naartoe?|
-010215|03-nl|nl|wav/nl-03-nl-000000539.wav|||Kan je jouw glas even neerzetten voordat je de borden afruimt?|
+009981|01-nl|nl|wav/nl-01-nl-000000304.wav|||De schilders hebben jaren gewerkt aan dat drieluik.|
+011321|12-nl|nl|wav/nl-12-nl-000001645.wav|||Onze verre voorouders waren holbewoners.|
+010453|04-nl|nl|wav/nl-04-nl-000000776.wav|||Je slaat de nagel op de kop.|
+010651|06-nl|nl|wav/nl-06-nl-000000974.wav|||De keus is aan jou, kies je voor een vakantie in Indonesië of Thailand.|
+009918|01-nl|nl|wav/nl-01-nl-000000241.wav|||De zee kon soms ruw zijn.|
+011196|10-nl|nl|wav/nl-10-nl-000001520.wav|||Het beschermen van de bij is de laatste jaren een prioriteit geworden.|
+009806|01-nl|nl|wav/nl-01-nl-000000129.wav|||Is het volgende week Moederdag?|
+010540|04-nl|nl|wav/nl-04-nl-000000863.wav|||De koning van dit land heeft drie kinderen.|
+011268|11-nl|nl|wav/nl-11-nl-000001592.wav|||Veel mensen vinden het leuk om te reageren op fora.|
+009741|01-nl|nl|wav/nl-01-nl-000000064.wav|||Het vriest dat het kraakt.|
+009924|01-nl|nl|wav/nl-01-nl-000000247.wav|||Volgens de islam is Jezus een profeet terwijl het christendom hem als de zoon van God beschouwt.|
+010118|03-nl|nl|wav/nl-03-nl-000000441.wav|||Heb jij ooit yoga gedaan?|
+010667|06-nl|nl|wav/nl-06-nl-000000990.wav|||Ik heb twee gaten in mijn sokken.|
+010466|04-nl|nl|wav/nl-04-nl-000000789.wav|||Af en toe zit er best ook een zin tussen met wat achtergrondlawaai van bijvoorbeeld een wasmachine of een droogkast.|
+011279|11-nl|nl|wav/nl-11-nl-000001603.wav|||Welk beleg heb je op je boterhammen gedaan?|
+010098|02-nl|nl|wav/nl-02-nl-000000421.wav|||Bewust belasting ontduiken is niet toegestaan.|
+010621|06-nl|nl|wav/nl-06-nl-000000944.wav|||De bakker heeft verschillende producten bijvoorbeeld koek, taart en brood.|
+010326|03-nl|nl|wav/nl-03-nl-000000649.wav|||Bij de verbouwing van hun huis zijn er verschillende dingen beschadigd waaronder de tegels in de gang en het parket in hun woonkamer.|
+010349|03-nl|nl|wav/nl-03-nl-000000672.wav|||Het was een adembenemend uitzicht over de vallei.|
+009781|01-nl|nl|wav/nl-01-nl-000000104.wav|||Melk is goed voor elk.|
+010737|08-nl|nl|wav/nl-08-nl-000001061.wav|||Zij heeft miljoenen verdient door op de beurs te spelen.|
+011063|08-nl|nl|wav/nl-08-nl-000001387.wav|||Onder andere Italië, Luxemburg, Nederland en Denemarken behoren tot de achtentwintig Europese lidstaten.|
+010922|08-nl|nl|wav/nl-08-nl-000001246.wav|||Met dit weer heb ik meer last van astma.|
+009734|01-nl|nl|wav/nl-01-nl-000000057.wav|||Je mag dat niet zomaar veralgemenen.|
+010586|06-nl|nl|wav/nl-06-nl-000000909.wav|||Ga je wel eens kamperen met een tent?|
+010017|01-nl|nl|wav/nl-01-nl-000000340.wav|||Mijn kussen is gevuld met veren.|
+010136|03-nl|nl|wav/nl-03-nl-000000459.wav|||Hoeveel tegoed heb jij nog?|
+010312|03-nl|nl|wav/nl-03-nl-000000635.wav|||Trek het je niet aan.|
+011055|08-nl|nl|wav/nl-08-nl-000001379.wav|||Het project van twintig miljoen is klaar over een paar weken.|
+010671|06-nl|nl|wav/nl-06-nl-000000995.wav|||De vloeistof in de erlenmeyer veranderde langzaam van kleur.|
+010953|08-nl|nl|wav/nl-08-nl-000001277.wav|||De husky lag in de hondenmand.|
+011023|08-nl|nl|wav/nl-08-nl-000001347.wav|||Laat ons iets weten voor september.|
+010177|03-nl|nl|wav/nl-03-nl-000000500.wav|||De kat krabt de krollen van de trap.|
+010416|03-nl|nl|wav/nl-03-nl-000000739.wav|||Arthur en Louis keken toe hoe de leerkracht de knoop ontwarde.|
+010173|03-nl|nl|wav/nl-03-nl-000000496.wav|||Sorry, maar die bewering vind ik toch wel belachelijk.|
+010976|08-nl|nl|wav/nl-08-nl-000001300.wav|||De tampons zijn op.|
+010744|08-nl|nl|wav/nl-08-nl-000001068.wav|||Hout blijft drijven op water.|
+009900|01-nl|nl|wav/nl-01-nl-000000223.wav|||Zij draagt altijd een helm als ze op de motorfiets rijdt.|
+009724|01-nl|nl|wav/nl-01-nl-000000047.wav|||Ik had er al wat over gelezen, maar hun nieuwe album is dus nog beter dan hun vorige.|
+009973|01-nl|nl|wav/nl-01-nl-000000296.wav|||Met knikkende knieën liep ik het kantoor binnen.|
+010255|03-nl|nl|wav/nl-03-nl-000000578.wav|||Goed, beter en best zijn voorbeelden van de vergelijkende trappen.|
+010168|03-nl|nl|wav/nl-03-nl-000000491.wav|||Ik heb daar een app voor op mijn telefoon.|
+011249|11-nl|nl|wav/nl-11-nl-000001573.wav|||Het is de G van Gazelle.|
+011183|10-nl|nl|wav/nl-10-nl-000001507.wav|||Nietsvermoedend is ze in de val gelopen.|
+010882|08-nl|nl|wav/nl-08-nl-000001206.wav|||Utrecht is eigenlijk best een kleine provincie.|
+009953|01-nl|nl|wav/nl-01-nl-000000276.wav|||Heel maart zit al vol in mijn agenda.|
+011243|11-nl|nl|wav/nl-11-nl-000001567.wav|||Het is een privé club, alleen voor belangrijke mensen.|
+010404|03-nl|nl|wav/nl-03-nl-000000727.wav|||Luipaarden zijn moeilijk te zien op safari's.|
+010731|07-nl|nl|wav/nl-07-nl-000001055.wav|||We gaan graag samen naar een restaurant.|
+010679|07-nl|nl|wav/nl-07-nl-000001003.wav|||Zij heeft twee honden thuis.|
+011276|11-nl|nl|wav/nl-11-nl-000001600.wav|||Ik heb de lamp zelf in elkaar gestoken.|
+011012|08-nl|nl|wav/nl-08-nl-000001336.wav|||'s Zondags brunchen we altijd met onze ouders.|
+010067|02-nl|nl|wav/nl-02-nl-000000390.wav|||Hoe lang heb je deze blauwe plek al?|
+010513|04-nl|nl|wav/nl-04-nl-000000836.wav|||Er lag op de hele tafel toffee, het was verschrikkelijk plakkerig.|
+010852|08-nl|nl|wav/nl-08-nl-000001176.wav|||Ken jij de naam van de hoogste berg van Mars?|
+009794|01-nl|nl|wav/nl-01-nl-000000117.wav|||Religie wordt ook wel eens geloof genoemd.|
+010088|02-nl|nl|wav/nl-02-nl-000000411.wav|||Ik zal een uitzondering aanvragen.|
+009858|01-nl|nl|wav/nl-01-nl-000000181.wav|||Jan en Mieke rennen rond in de tuin.|
+011066|08-nl|nl|wav/nl-08-nl-000001390.wav|||Ik ben de perforator kwijt.|
+011165|10-nl|nl|wav/nl-10-nl-000001489.wav|||Dat is een goed nummer.|
+010478|04-nl|nl|wav/nl-04-nl-000000801.wav|||Het is acht voor zeven.|
+010023|01-nl|nl|wav/nl-01-nl-000000346.wav|||Ik heb een vlucht geboekt met Ryanair.|
+010415|03-nl|nl|wav/nl-03-nl-000000738.wav|||Mijn wachtwoord is zonder mijn toestemming veranderd.|
+010845|08-nl|nl|wav/nl-08-nl-000001169.wav|||Ik heb daar een app voor op mijn telefoon.|
+010767|08-nl|nl|wav/nl-08-nl-000001091.wav|||Ze staarde uit het raam.|
+010252|03-nl|nl|wav/nl-03-nl-000000575.wav|||Als je computer niet werkt moet je even controleren of de stekker wel in het stopcontact zit.|
+010396|03-nl|nl|wav/nl-03-nl-000000719.wav|||Ik ben het grootste deel van mei niet thuis.|
+011221|10-nl|nl|wav/nl-10-nl-000001545.wav|||Het personeel stond buiten een luchtje te scheppen.|
+011353|12-nl|nl|wav/nl-12-nl-000001677.wav|||Star wars is een duidelijk voorbeeld van sciencefiction.|
+010343|03-nl|nl|wav/nl-03-nl-000000666.wav|||Woon je in Alkmaar?|
+009714|01-nl|nl|wav/nl-01-nl-000000037.wav|||Ze is ingenieur van opleiding.|
+009833|01-nl|nl|wav/nl-01-nl-000000156.wav|||Joran, stuur je een bericht met WhatsApp om te zeggen dat we wat later gaan zijn?|
+010342|03-nl|nl|wav/nl-03-nl-000000665.wav|||Stijn begon alvast met het garen van de aubergines.|
+011150|09-nl|nl|wav/nl-09-nl-000001474.wav|||Hij was de sleutel van de voordeur verloren en dus moest de slotenmaker komen om het slot open te breken.|
+011075|09-nl|nl|wav/nl-09-nl-000001399.wav|||Je moet opletten tijdens het autorijden als je door een mistbank rijdt.|
+011125|09-nl|nl|wav/nl-09-nl-000001449.wav|||De hoeveelheid ijs op de Noordpool daalt jaar na jaar.|
+010837|08-nl|nl|wav/nl-08-nl-000001161.wav|||De voorraad stond opgeslagen in een afgelegen loods.|
+010247|03-nl|nl|wav/nl-03-nl-000000570.wav|||Eline is gaan skiën in de buurt van Geneve.|
+010879|08-nl|nl|wav/nl-08-nl-000001203.wav|||We komen langs in april.|
+011152|09-nl|nl|wav/nl-09-nl-000001476.wav|||Kan jij paardrijden?|
+009797|01-nl|nl|wav/nl-01-nl-000000120.wav|||Ze bekeek hem met argwaan.|
+010409|03-nl|nl|wav/nl-03-nl-000000732.wav|||Hij had onderdelen voor zijn oldtimer gekocht in de doe-het-zelfzaak.|
+010826|08-nl|nl|wav/nl-08-nl-000001150.wav|||Waar gaat al het afval naartoe?|
+010216|03-nl|nl|wav/nl-03-nl-000000539.wav|||Kan je jouw glas even neerzetten voordat je de borden afruimt?|
