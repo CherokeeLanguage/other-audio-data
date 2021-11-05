@@ -18,7 +18,6 @@ if __name__ == "__main__":
         os.chdir(os.path.dirname(sys.argv[0]))
 
     MASTER_TEXT: str = "comvoi-all.txt"
-    max_duration: float = 10.0
 
     rmtree("wav", ignore_errors=True)
     pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
@@ -60,11 +59,7 @@ if __name__ == "__main__":
         segments: list = detect_sound(mp3_segment)
         if len(segments) > 1:
             mp3_segment = mp3_segment[segments[0][0]:segments[-1][1]]
-        if mp3_segment.duration_seconds > max_duration:
-            continue
-        audio: AudioSegment = AudioSegment.silent(125, 22050)
-        audio = audio.append(mp3_segment, crossfade=0)
-        audio = audio.append(AudioSegment.silent(125, 22050), crossfade=0)
+        audio: AudioSegment = mp3_segment
         audio = effects.normalize(audio)
         audio = audio.set_channels(1)
         audio = audio.set_frame_rate(22050)
@@ -111,6 +106,10 @@ if __name__ == "__main__":
     with open("val.txt", "w") as f:
         f.write("")
 
+    train_size_all: int = 0
+    val_size_all: int = 0
+    all_size_all: int = 0
+
     for lang in langs:
         subset: list = list()
         for row in rows:
@@ -118,11 +117,14 @@ if __name__ == "__main__":
             if rlang != lang:
                 continue
             subset.append(row)
+        all_size_all += len(subset)
         print(f" {lang} length: {len(subset):,}")
         random.Random(len(subset)).shuffle(subset)
         # create train/val sets - splitting up data by language evenly
-        trainSize: int = (int)(len(subset) * .95)
+        trainSize: int = int(len(subset) * .95)
+        train_size_all += trainSize
         valSize: int = len(subset) - trainSize
+        val_size_all += valSize
         with open("train.txt", "a") as f:
             for line in subset[:trainSize]:
                 f.write(line)
@@ -133,10 +135,18 @@ if __name__ == "__main__":
                 f.write(line)
                 f.write("\n")
 
-    with open("stats.txt", "a") as f:
-        print(f"All size: {len(rows)}", file=f)
-        print(f"Train size: {trainSize}", file=f)
-        print(f"Val size: {valSize}", file=f)
+        with open(f"stats-{lang}.txt", "a") as f:
+            print(f"All size: {len(subset):,d}", file=f)
+            print(f"Train size: {trainSize:,d}", file=f)
+            print(f"Val size: {valSize:,d}", file=f)
+            print(file=f)
+            print("Folder:", pathlib.Path(".").resolve().name, file=f)
+            print(file=f)
+
+    with open(f"stats-all.txt", "a") as f:
+        print(f"All size: {all_size_all:,d}", file=f)
+        print(f"Train size: {train_size_all:,d}", file=f)
+        print(f"Val size: {val_size_all:,d}", file=f)
         print(file=f)
         print("Folder:", pathlib.Path(".").resolve().name, file=f)
         print(file=f)
