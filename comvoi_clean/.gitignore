@@ -14,3 +14,5 @@ wav/
 /stats-nl.txt
 /stats-ru.txt
 /stats-zh.txt
+/train.txt
+/val.txt
