@@ -9,7 +9,6 @@ from shutil import rmtree
 
 import progressbar
 import pydub.effects as effects
-
 from pydub import AudioSegment
 
 

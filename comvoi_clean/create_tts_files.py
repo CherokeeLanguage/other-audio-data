@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 import os
+import pathlib
+import random
 import sys
 import unicodedata as ud
-import random
-import pathlib
+from builtins import list
 from shutil import rmtree
 
 import progressbar
-from pydub import AudioSegment
 import pydub.effects as effects
+from pydub import AudioSegment
+
 from split_audio import detect_sound
-from builtins import list
 
 if __name__ == "__main__":
 

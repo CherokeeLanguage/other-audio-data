@@ -1,4 +1,3 @@
-
 import os
 import pathlib
 import random
@@ -16,7 +15,6 @@ from split_audio import detect_sound
 
 
 def main():
-
     src_dir: str = "../cstr-vctk-corpus"
 
     if sys.argv[0].strip():
