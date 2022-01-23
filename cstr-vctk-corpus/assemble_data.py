@@ -1,4 +1,12 @@
-#!/usr/bin/env python3
+#!/usr/bin/env bash
+"""true" '''\'
+set -e
+eval "$(conda shell.bash hook)"
+conda deactivate
+conda activate CherokeeTrainingData
+exec python "$0" "$@"
+exit $?
+''"""
 import os
 import pathlib
 import re
@@ -17,41 +25,48 @@ import pydub.effects as effects
 import torch.hub
 from pydub import AudioSegment
 
-if __name__ == "__main__":
+
+def main() -> None:
+    mp3_quality: list[str] = ["-q:a", "3"]
+
+    create_22k: bool = False
+    create_48k: bool = True
 
     warnings.filterwarnings("ignore")
 
-    diaz_pipeline = torch.hub.load('pyannote/pyannote-audio', 'dia', device="cpu")
+    diaz_pipeline = torch.hub.load('pyannote/pyannote-audio', 'dia', device="cuda")
 
-    skip_speakers: set = set()  # speakers to skip due to audio quality issues (hums, etc)
+    skip_speakers: set[str] = set()  # speakers to skip due to audio quality issues (hums, etc)
     skip_speakers.add("236-en")
-
-    max_length: float = 10.0
 
     if sys.argv[0].strip() != "":
         os.chdir(os.path.dirname(sys.argv[0]))
 
-    max_duration: float = 10.0
     output_text: str = "cstr-vctk-corpus.txt"
+    output_text_48k: str = "cstr-vctk-corpus-48k.txt"
 
     # cleanup any previous runs
-    for folder in ["mp3"]:
-        rmtree(folder, ignore_errors=True)
-    pathlib.Path(".").joinpath("mp3").mkdir(exist_ok=True)
+    if create_48k:
+        rmtree("mp3-48k", ignore_errors=True)
+        pathlib.Path(".").joinpath("mp3-48k").mkdir(exist_ok=True)
+    if create_22k:
+        rmtree("mp3", ignore_errors=True)
+        pathlib.Path(".").joinpath("mp3").mkdir(exist_ok=True)
 
     txt_dirs: list = [d for d in listdir("txt") if isdir(join("txt", d))]
     txt_dirs.sort()
 
-    entries: list = list()
+    entries: list[tuple[str, str, str, str, str]] = list()
 
     for d in txt_dirs:
         txt_files: list = [f for f in listdir(join("txt", d)) if isfile(join("txt", d, f))]
         txt_files.sort()
         for txt_file in txt_files:
-            speaker = re.sub(".*?(\\d+)_.*", "\\1", txt_file) + "-en"
+            speaker = "en-" + re.sub(".*?(\\d+)_.*", "\\1", txt_file)
             if speaker in skip_speakers:
                 continue
             mp3_file = join("mp3", txt_file.replace(".txt", ".mp3"))
+            mp3_48k_file = join("mp3-48k", txt_file.replace(".txt", ".mp3"))
             wav_file = join("wav48", d, txt_file.replace(".txt", ".wav"))
             txt_file = join("txt", d, txt_file)
             text: str
@@ -59,7 +74,7 @@ if __name__ == "__main__":
                 for line in f:
                     text = line.strip().replace("|", " ")
                     break
-            entries.append((wav_file, speaker, mp3_file, text))
+            entries.append((wav_file, speaker, mp3_file, mp3_48k_file, text))
 
     print(f"Loaded {len(entries):,} entries.")
 
@@ -68,12 +83,13 @@ if __name__ == "__main__":
     idx: int = 0
     count: int = 0
     lang: str = "en"
-    shortestLength: float = -1
-    longestLength: float = 0.0
-    totalLength: float = 0.0
+    shortest_length: float = -1
+    longest_length: float = 0.0
+    total_length: float = 0.0
     print("Creating mp3s")
-    rows: list = []
-    for wav, speaker, mp3, text in entries:
+    rows: list[str] = []
+    rows_48k: list[str] = []
+    for wav, speaker, mp3, mp3_48k, text in entries:
         bar.update(count)
         count += 1
         text: str = ud.normalize('NFC', text)
@@ -105,45 +121,61 @@ if __name__ == "__main__":
         audio: AudioSegment = wav_segment[diaz_start:diaz_end]
         audio = effects.normalize(audio)
         audio = audio.set_channels(1)
-        audio = audio.set_frame_rate(22050)
-        audio.export(mp3, format="mp3", parameters=["-q:a", "3"])
-        totalLength += audio.duration_seconds
-        if shortestLength < 0 or shortestLength > audio.duration_seconds:
-            shortestLength = audio.duration_seconds
-        if longestLength < audio.duration_seconds:
-            longestLength = audio.duration_seconds
+        if create_48k:
+            audio.set_frame_rate(48000)\
+                .export(mp3_48k, format="mp3", parameters=mp3_quality)
+        if create_22k:
+            audio.set_frame_rate(22050)\
+                .export(mp3, format="mp3", parameters=mp3_quality)
+        total_length += audio.duration_seconds
+        if shortest_length < 0 or shortest_length > audio.duration_seconds:
+            shortest_length = audio.duration_seconds
+        if longest_length < audio.duration_seconds:
+            longest_length = audio.duration_seconds
         idx += 1
         rows.append(f"{idx:06d}|{speaker}|{lang}|{mp3}|||{text}|")
+        rows_48k.append(f"{idx:06d}|{speaker}|{lang}|{mp3_48k}|||{text}|")
 
     bar.finish()
+
+    rows.sort()
+    rows_48k.sort()
 
     with open("assemble-stats.txt", "w") as f:
         print(f"Output {idx:,} entries.", file=f)
 
         print(file=f)
 
-        totalLength = int(totalLength)
-        minutes = int(totalLength / 60)
-        seconds = int(totalLength % 60)
+        total_length = int(total_length)
+        minutes = int(total_length / 60)
+        seconds = int(total_length % 60)
         print(f"Total duration: {minutes:,}:{seconds:02}", file=f)
 
-        shortestLength = int(shortestLength)
-        minutes = int(shortestLength / 60)
-        seconds = int(shortestLength % 60)
+        shortest_length = int(shortest_length)
+        minutes = int(shortest_length / 60)
+        seconds = int(shortest_length % 60)
         print(f"Shortest duration: {minutes:,}:{seconds:02}", file=f)
 
-        longestLength = int(longestLength)
-        minutes = int(longestLength / 60)
-        seconds = int(longestLength % 60)
+        longest_length = int(longest_length)
+        minutes = int(longest_length / 60)
+        seconds = int(longest_length % 60)
         print(f"Longest duration: {minutes:,}:{seconds:02}", file=f)
 
         print(file=f)
 
-    print("Creating final output file")
-    with open(output_text, "w") as f:
-        for line in rows:
-            f.write(line)
-            f.write("\n")
+    print("Creating final output files")
+
+    if create_22k:
+        with open(output_text, "w") as f:
+            for line in rows:
+                f.write(line)
+                f.write("\n")
+
+    if create_48k:
+        with open(output_text_48k, "w") as f:
+            for line in rows_48k:
+                f.write(line)
+                f.write("\n")
 
     with open("assemble-stats.txt", "a") as f:
         print(f"All size: {len(rows)}", file=f)
@@ -152,4 +184,8 @@ if __name__ == "__main__":
         print(file=f)
 
     print("done")
-    sys.exit()
+    return
+
+
+if __name__ == "__main__":
+    main()

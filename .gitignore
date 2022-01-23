@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /.idea/
+hi_fi_tts_v0.tar.gz
