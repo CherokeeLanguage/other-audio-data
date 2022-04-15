@@ -1,0 +1,14 @@
+plugins {
+    id "idea"
+}
+
+idea {
+    module {
+        name = "Other Audio Data"
+    }    
+    project {
+        wildcards += "*.py"
+        wildcards += "*.sh"
+        vcs = "Git"
+    }
+}
