@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 /.idea/
 hi_fi_tts_v0.tar.gz
+ims-toucan-*.txt

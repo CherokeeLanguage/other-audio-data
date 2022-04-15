@@ -1,3 +1,13 @@
+#!/usr/bin/env bash
+"""true" '''\'
+set -e
+eval "$(conda shell.bash hook)"
+conda deactivate
+conda activate cherokee-audio-data
+exec python "$0" "$@"
+exit $?
+''"""
+
 import os
 import pathlib
 import random
@@ -22,7 +32,7 @@ def main():
         if dir_name:
             os.chdir(dir_name)
 
-    MASTER_TEXT: str = src_dir + "/cstr-vctk-corpus.txt"
+    MASTER_TEXT: str = os.path.join(src_dir, "cstr-vctk-corpus-48k.txt")
 
     rmtree("wav", ignore_errors=True)
     pathlib.Path(".").joinpath("wav").mkdir(exist_ok=True)
@@ -40,14 +50,14 @@ def main():
                           line)
             line = re.sub("\\s+", " ", line)
             fields = line.split("|")
-            region: str = fields[3]
-            if "american" not in region.lower():
+            accents: str = fields[3]
+            region: str = fields[4]
+            if "american" not in region.lower() and "american" not in accents.lower():
                 continue
             sex: str = fields[2]
-            speaker: str = fields[0] + "-en"
+            speaker: str = f"en-{fields[0]}"
             wanted_speakers.add(speaker)
             speaker_info[speaker] = (speaker, fields[1], sex.lower(), region, fields[4])
-
     num_lines: int
     with open(MASTER_TEXT, "r") as f:
         num_lines = sum(1 for line in f)
@@ -57,6 +67,7 @@ def main():
     bar = progressbar.ProgressBar(maxval=num_lines)
     bar.start()
 
+    bad_speakers: set[str] = set()
     with open(MASTER_TEXT, "r") as f:
         entries: dict = {}
         idx: int = 0
@@ -70,6 +81,7 @@ def main():
             mp3: str = fields[3].strip()
 
             if spkr not in wanted_speakers:
+                bad_speakers.add(spkr)
                 continue
             info = speaker_info[spkr]
             spkr = info[0] + "-" + info[2]
