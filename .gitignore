@@ -130,3 +130,4 @@ dmypy.json
 /.idea/
 hi_fi_tts_v0.tar.gz
 ims-toucan-*.txt
+_toucan_ref_audio/
